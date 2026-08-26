@@ -61,6 +61,263 @@ export type Database = {
           },
         ]
       }
+      destination_activities: {
+        Row: {
+          description: string | null
+          destination_id: string
+          experience_tag: string | null
+          icon: string | null
+          id: string
+          is_indoor: boolean
+          months: number[]
+          season_tags: string[]
+          sort: number
+          title: string
+          weather_conditions: string[]
+        }
+        Insert: {
+          description?: string | null
+          destination_id: string
+          experience_tag?: string | null
+          icon?: string | null
+          id?: string
+          is_indoor?: boolean
+          months?: number[]
+          season_tags?: string[]
+          sort?: number
+          title: string
+          weather_conditions?: string[]
+        }
+        Update: {
+          description?: string | null
+          destination_id?: string
+          experience_tag?: string | null
+          icon?: string | null
+          id?: string
+          is_indoor?: boolean
+          months?: number[]
+          season_tags?: string[]
+          sort?: number
+          title?: string
+          weather_conditions?: string[]
+        }
+        Relationships: [
+          {
+            foreignKeyName: "destination_activities_destination_id_fkey"
+            columns: ["destination_id"]
+            isOneToOne: false
+            referencedRelation: "destinations"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      destination_images: {
+        Row: {
+          alt: string | null
+          category: string | null
+          credit: string | null
+          destination_id: string
+          id: string
+          license: string | null
+          season_tag: string | null
+          sort: number
+          source_url: string | null
+          thumb_url: string | null
+          url: string
+        }
+        Insert: {
+          alt?: string | null
+          category?: string | null
+          credit?: string | null
+          destination_id: string
+          id?: string
+          license?: string | null
+          season_tag?: string | null
+          sort?: number
+          source_url?: string | null
+          thumb_url?: string | null
+          url: string
+        }
+        Update: {
+          alt?: string | null
+          category?: string | null
+          credit?: string | null
+          destination_id?: string
+          id?: string
+          license?: string | null
+          season_tag?: string | null
+          sort?: number
+          source_url?: string | null
+          thumb_url?: string | null
+          url?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "destination_images_destination_id_fkey"
+            columns: ["destination_id"]
+            isOneToOne: false
+            referencedRelation: "destinations"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      destination_seasons: {
+        Row: {
+          activities: string[]
+          budget: string | null
+          crowd: string | null
+          destination_id: string
+          id: string
+          label: string
+          months: number[]
+          notes: string | null
+          rating: string | null
+          sort: number
+          weather: string | null
+        }
+        Insert: {
+          activities?: string[]
+          budget?: string | null
+          crowd?: string | null
+          destination_id: string
+          id?: string
+          label: string
+          months: number[]
+          notes?: string | null
+          rating?: string | null
+          sort?: number
+          weather?: string | null
+        }
+        Update: {
+          activities?: string[]
+          budget?: string | null
+          crowd?: string | null
+          destination_id?: string
+          id?: string
+          label?: string
+          months?: number[]
+          notes?: string | null
+          rating?: string | null
+          sort?: number
+          weather?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "destination_seasons_destination_id_fkey"
+            columns: ["destination_id"]
+            isOneToOne: false
+            referencedRelation: "destinations"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      destinations: {
+        Row: {
+          altitude_m: number | null
+          best_months: number[]
+          budget_level: string | null
+          created_at: string
+          description: string | null
+          experience_tags: string[]
+          famous_food: string[]
+          festivals: string[]
+          id: string
+          is_hidden_gem: boolean
+          kind: string
+          latitude: number
+          local_experiences: string[]
+          longitude: number
+          name: string
+          popularity: number
+          recommended_days: string | null
+          region_id: string
+          season_tags: string[]
+          slug: string
+          summary: string | null
+          updated_at: string
+          wikipedia_title: string | null
+        }
+        Insert: {
+          altitude_m?: number | null
+          best_months?: number[]
+          budget_level?: string | null
+          created_at?: string
+          description?: string | null
+          experience_tags?: string[]
+          famous_food?: string[]
+          festivals?: string[]
+          id?: string
+          is_hidden_gem?: boolean
+          kind?: string
+          latitude: number
+          local_experiences?: string[]
+          longitude: number
+          name: string
+          popularity?: number
+          recommended_days?: string | null
+          region_id: string
+          season_tags?: string[]
+          slug: string
+          summary?: string | null
+          updated_at?: string
+          wikipedia_title?: string | null
+        }
+        Update: {
+          altitude_m?: number | null
+          best_months?: number[]
+          budget_level?: string | null
+          created_at?: string
+          description?: string | null
+          experience_tags?: string[]
+          famous_food?: string[]
+          festivals?: string[]
+          id?: string
+          is_hidden_gem?: boolean
+          kind?: string
+          latitude?: number
+          local_experiences?: string[]
+          longitude?: number
+          name?: string
+          popularity?: number
+          recommended_days?: string | null
+          region_id?: string
+          season_tags?: string[]
+          slug?: string
+          summary?: string | null
+          updated_at?: string
+          wikipedia_title?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "destinations_region_id_fkey"
+            columns: ["region_id"]
+            isOneToOne: false
+            referencedRelation: "regions"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      media_cache: {
+        Row: {
+          cache_key: string
+          fetched_at: string
+          id: string
+          payload: Json
+        }
+        Insert: {
+          cache_key: string
+          fetched_at?: string
+          id?: string
+          payload: Json
+        }
+        Update: {
+          cache_key?: string
+          fetched_at?: string
+          id?: string
+          payload?: Json
+        }
+        Relationships: []
+      }
       profiles: {
         Row: {
           avatar_url: string | null
@@ -84,6 +341,68 @@ export type Database = {
           updated_at?: string
         }
         Relationships: []
+      }
+      regions: {
+        Row: {
+          best_seasons: string[]
+          capital: string | null
+          code: string | null
+          created_at: string
+          id: string
+          kind: string
+          latitude: number | null
+          longitude: number | null
+          name: string
+          parent_id: string | null
+          slug: string
+          sort: number
+          summary: string | null
+          tags: string[]
+          updated_at: string
+        }
+        Insert: {
+          best_seasons?: string[]
+          capital?: string | null
+          code?: string | null
+          created_at?: string
+          id?: string
+          kind: string
+          latitude?: number | null
+          longitude?: number | null
+          name: string
+          parent_id?: string | null
+          slug: string
+          sort?: number
+          summary?: string | null
+          tags?: string[]
+          updated_at?: string
+        }
+        Update: {
+          best_seasons?: string[]
+          capital?: string | null
+          code?: string | null
+          created_at?: string
+          id?: string
+          kind?: string
+          latitude?: number | null
+          longitude?: number | null
+          name?: string
+          parent_id?: string | null
+          slug?: string
+          sort?: number
+          summary?: string | null
+          tags?: string[]
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "regions_parent_id_fkey"
+            columns: ["parent_id"]
+            isOneToOne: false
+            referencedRelation: "regions"
+            referencedColumns: ["id"]
+          },
+        ]
       }
       stops: {
         Row: {
@@ -174,6 +493,27 @@ export type Database = {
           start_date?: string | null
           updated_at?: string
           user_id?: string
+        }
+        Relationships: []
+      }
+      weather_cache: {
+        Row: {
+          cache_key: string
+          fetched_at: string
+          id: string
+          payload: Json
+        }
+        Insert: {
+          cache_key: string
+          fetched_at?: string
+          id?: string
+          payload: Json
+        }
+        Update: {
+          cache_key?: string
+          fetched_at?: string
+          id?: string
+          payload?: Json
         }
         Relationships: []
       }
