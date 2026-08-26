@@ -14,7 +14,169 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      activities: {
+        Row: {
+          category: string | null
+          cost: number
+          created_at: string
+          id: string
+          notes: string | null
+          scheduled_at: string | null
+          stop_id: string
+          title: string
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          category?: string | null
+          cost?: number
+          created_at?: string
+          id?: string
+          notes?: string | null
+          scheduled_at?: string | null
+          stop_id: string
+          title: string
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          category?: string | null
+          cost?: number
+          created_at?: string
+          id?: string
+          notes?: string | null
+          scheduled_at?: string | null
+          stop_id?: string
+          title?: string
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "activities_stop_id_fkey"
+            columns: ["stop_id"]
+            isOneToOne: false
+            referencedRelation: "stops"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      profiles: {
+        Row: {
+          avatar_url: string | null
+          created_at: string
+          display_name: string | null
+          id: string
+          updated_at: string
+        }
+        Insert: {
+          avatar_url?: string | null
+          created_at?: string
+          display_name?: string | null
+          id: string
+          updated_at?: string
+        }
+        Update: {
+          avatar_url?: string | null
+          created_at?: string
+          display_name?: string | null
+          id?: string
+          updated_at?: string
+        }
+        Relationships: []
+      }
+      stops: {
+        Row: {
+          arrival_date: string | null
+          city: string
+          country: string | null
+          created_at: string
+          departure_date: string | null
+          id: string
+          notes: string | null
+          position: number
+          trip_id: string
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          arrival_date?: string | null
+          city: string
+          country?: string | null
+          created_at?: string
+          departure_date?: string | null
+          id?: string
+          notes?: string | null
+          position?: number
+          trip_id: string
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          arrival_date?: string | null
+          city?: string
+          country?: string | null
+          created_at?: string
+          departure_date?: string | null
+          id?: string
+          notes?: string | null
+          position?: number
+          trip_id?: string
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "stops_trip_id_fkey"
+            columns: ["trip_id"]
+            isOneToOne: false
+            referencedRelation: "trips"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      trips: {
+        Row: {
+          budget: number
+          cover_image_url: string | null
+          created_at: string
+          description: string | null
+          destination: string | null
+          end_date: string | null
+          id: string
+          name: string
+          start_date: string | null
+          updated_at: string
+          user_id: string
+        }
+        Insert: {
+          budget?: number
+          cover_image_url?: string | null
+          created_at?: string
+          description?: string | null
+          destination?: string | null
+          end_date?: string | null
+          id?: string
+          name: string
+          start_date?: string | null
+          updated_at?: string
+          user_id: string
+        }
+        Update: {
+          budget?: number
+          cover_image_url?: string | null
+          created_at?: string
+          description?: string | null
+          destination?: string | null
+          end_date?: string | null
+          id?: string
+          name?: string
+          start_date?: string | null
+          updated_at?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
