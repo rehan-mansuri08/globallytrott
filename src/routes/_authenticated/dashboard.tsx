@@ -123,7 +123,7 @@ function Dashboard() {
                 Cities, stops, activities and costs — laid out on one timeline.
               </p>
             </div>
-            <Button className="mt-6 w-full glow" size="lg">
+            <Button className="mt-6 w-full glow" size="lg" onClick={() => window.location.assign("/itinerary")}>
               <Plus /> Plan New Trip
             </Button>
           </Panel>
