@@ -72,6 +72,7 @@ export default function IndiaMapLeaflet({
   onSelect?: (slug: string) => void;
 }) {
   const markers = useMemo(() => (markersHidden ? [] : destinations), [destinations, markersHidden]);
+  const stateBoundaries = useStateBoundaries();
 
   return (
     <MapContainer
