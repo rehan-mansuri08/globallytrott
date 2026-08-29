@@ -162,3 +162,33 @@
   text-transform: uppercase;
   color: var(--color-muted-foreground);
 }
+
+/* Leaflet (keyless map) polish */
+.leaflet-container {
+  font-family: var(--font-sans);
+}
+
+/* Dark-theme OpenStreetMap tiles (keyless): invert + recolor to teal/slate */
+.leaflet-tile-pane {
+  filter: invert(0.92) hue-rotate(180deg) saturate(0.35) brightness(0.9) contrast(1.05);
+}
+
+.gt-map-popup .leaflet-popup-content-wrapper {
+  border-radius: 0.75rem;
+  box-shadow: var(--shadow-glass);
+}
+
+.gt-map-popup .leaflet-popup-content {
+  margin: 0.65rem 0.85rem;
+  line-height: 1.4;
+}
+
+.leaflet-control-attribution {
+  font-size: 9px;
+  background: oklch(0.16 0.017 250 / 70%);
+  color: oklch(0.6 0.02 250);
+}
+
+.leaflet-control-attribution a {
+  color: oklch(0.72 0.1 180);
+}
