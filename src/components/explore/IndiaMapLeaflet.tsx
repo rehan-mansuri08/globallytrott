@@ -1,11 +1,12 @@
 // Browser-only Leaflet implementation of the India map.
 // Imported lazily from IndiaMap.tsx so it never runs during SSR.
 
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
 
 import { Link } from "@tanstack/react-router";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import type { FeatureCollection } from "geojson";
 import { GeoJSON, MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 
 import type { DestinationCard } from "@/lib/catalog";
@@ -15,6 +16,25 @@ const INDIA_ZOOM = 4.6;
 
 const STATE_GEOJSON_URL =
   "https://raw.githubusercontent.com/geohacker/india/master/state/india.geojson";
+
+function useStateBoundaries() {
+  const [geojson, setGeojson] = useState<FeatureCollection | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    fetch(STATE_GEOJSON_URL)
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error("geojson fetch failed"))))
+      .then((gj) => {
+        if (!cancelled) setGeojson(gj);
+      })
+      .catch(() => {
+        /* boundaries are decorative — skip silently */
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+  return geojson;
+}
 
 function markerIcon(selected: boolean) {
   const size = selected ? 30 : 24;
