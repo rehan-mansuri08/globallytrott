@@ -37,3 +37,9 @@ dist-ssr
 dev.log
 
 dev.log.*
+
+
+# Vercel
+.vercel/
+.vercel
+.env*
