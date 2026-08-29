@@ -168,6 +168,11 @@
   font-family: var(--font-sans);
 }
 
+/* Dark-theme OpenStreetMap tiles (keyless): invert + recolor to teal/slate */
+.leaflet-tile-pane {
+  filter: invert(0.92) hue-rotate(180deg) saturate(0.35) brightness(0.9) contrast(1.05);
+}
+
 .gt-map-popup .leaflet-popup-content-wrapper {
   border-radius: 0.75rem;
   box-shadow: var(--shadow-glass);
