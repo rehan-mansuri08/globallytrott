@@ -11,8 +11,12 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as AuthenticatedRouteRouteImport } from './routes/_authenticated/route'
+import { Route as AuthenticatedAiBuilderRouteImport } from './routes/_authenticated/ai-builder'
 import { Route as AuthenticatedDashboardRouteImport } from './routes/_authenticated/dashboard'
 import { Route as AuthenticatedItineraryRouteImport } from './routes/_authenticated/itinerary'
+import { Route as IndiaIndexRouteImport } from './routes/india/index'
+import { Route as IndiaStateIndexRouteImport } from './routes/india/$state/index'
+import { Route as IndiaStateDestinationRouteImport } from './routes/india/$state/$destination'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -22,6 +26,11 @@ const IndexRoute = IndexRouteImport.update({
 const AuthenticatedRouteRoute = AuthenticatedRouteRouteImport.update({
   id: '/_authenticated',
   getParentRoute: () => rootRouteImport,
+} as any)
+const AuthenticatedAiBuilderRoute = AuthenticatedAiBuilderRouteImport.update({
+  id: '/ai-builder',
+  path: '/ai-builder',
+  getParentRoute: () => AuthenticatedRouteRoute,
 } as any)
 const AuthenticatedDashboardRoute = AuthenticatedDashboardRouteImport.update({
   id: '/dashboard',
@@ -33,40 +42,88 @@ const AuthenticatedItineraryRoute = AuthenticatedItineraryRouteImport.update({
   path: '/itinerary',
   getParentRoute: () => AuthenticatedRouteRoute,
 } as any)
+const IndiaIndexRoute = IndiaIndexRouteImport.update({
+  id: '/india/',
+  path: '/india/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const IndiaStateIndexRoute = IndiaStateIndexRouteImport.update({
+  id: '/india/$state/',
+  path: '/india/$state/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const IndiaStateDestinationRoute = IndiaStateDestinationRouteImport.update({
+  id: '/india/$state/$destination',
+  path: '/india/$state/$destination',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/ai-builder': typeof AuthenticatedAiBuilderRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/itinerary': typeof AuthenticatedItineraryRoute
+  '/india/': typeof IndiaIndexRoute
+  '/india/$state/$destination': typeof IndiaStateDestinationRoute
+  '/india/$state/': typeof IndiaStateIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/ai-builder': typeof AuthenticatedAiBuilderRoute
   '/dashboard': typeof AuthenticatedDashboardRoute
   '/itinerary': typeof AuthenticatedItineraryRoute
+  '/india': typeof IndiaIndexRoute
+  '/india/$state/$destination': typeof IndiaStateDestinationRoute
+  '/india/$state': typeof IndiaStateIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/_authenticated': typeof AuthenticatedRouteRouteWithChildren
+  '/_authenticated/ai-builder': typeof AuthenticatedAiBuilderRoute
   '/_authenticated/dashboard': typeof AuthenticatedDashboardRoute
   '/_authenticated/itinerary': typeof AuthenticatedItineraryRoute
+  '/india/': typeof IndiaIndexRoute
+  '/india/$state/$destination': typeof IndiaStateDestinationRoute
+  '/india/$state/': typeof IndiaStateIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/dashboard' | '/itinerary'
+  fullPaths:
+    | '/'
+    | '/ai-builder'
+    | '/dashboard'
+    | '/itinerary'
+    | '/india/'
+    | '/india/$state/$destination'
+    | '/india/$state/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/dashboard' | '/itinerary'
+  to:
+    | '/'
+    | '/ai-builder'
+    | '/dashboard'
+    | '/itinerary'
+    | '/india'
+    | '/india/$state/$destination'
+    | '/india/$state'
   id:
     | '__root__'
     | '/'
     | '/_authenticated'
+    | '/_authenticated/ai-builder'
     | '/_authenticated/dashboard'
     | '/_authenticated/itinerary'
+    | '/india/'
+    | '/india/$state/$destination'
+    | '/india/$state/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AuthenticatedRouteRoute: typeof AuthenticatedRouteRouteWithChildren
+  IndiaIndexRoute: typeof IndiaIndexRoute
+  IndiaStateDestinationRoute: typeof IndiaStateDestinationRoute
+  IndiaStateIndexRoute: typeof IndiaStateIndexRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -85,6 +142,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedRouteRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/_authenticated/ai-builder': {
+      id: '/_authenticated/ai-builder'
+      path: '/ai-builder'
+      fullPath: '/ai-builder'
+      preLoaderRoute: typeof AuthenticatedAiBuilderRouteImport
+      parentRoute: typeof AuthenticatedRouteRoute
+    }
     '/_authenticated/dashboard': {
       id: '/_authenticated/dashboard'
       path: '/dashboard'
@@ -99,15 +163,38 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AuthenticatedItineraryRouteImport
       parentRoute: typeof AuthenticatedRouteRoute
     }
+    '/india/': {
+      id: '/india/'
+      path: '/india'
+      fullPath: '/india/'
+      preLoaderRoute: typeof IndiaIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/india/$state/': {
+      id: '/india/$state/'
+      path: '/india/$state'
+      fullPath: '/india/$state/'
+      preLoaderRoute: typeof IndiaStateIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/india/$state/$destination': {
+      id: '/india/$state/$destination'
+      path: '/india/$state/$destination'
+      fullPath: '/india/$state/$destination'
+      preLoaderRoute: typeof IndiaStateDestinationRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 interface AuthenticatedRouteRouteChildren {
+  AuthenticatedAiBuilderRoute: typeof AuthenticatedAiBuilderRoute
   AuthenticatedDashboardRoute: typeof AuthenticatedDashboardRoute
   AuthenticatedItineraryRoute: typeof AuthenticatedItineraryRoute
 }
 
 const AuthenticatedRouteRouteChildren: AuthenticatedRouteRouteChildren = {
+  AuthenticatedAiBuilderRoute: AuthenticatedAiBuilderRoute,
   AuthenticatedDashboardRoute: AuthenticatedDashboardRoute,
   AuthenticatedItineraryRoute: AuthenticatedItineraryRoute,
 }
@@ -118,6 +205,9 @@ const AuthenticatedRouteRouteWithChildren =
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AuthenticatedRouteRoute: AuthenticatedRouteRouteWithChildren,
+  IndiaIndexRoute: IndiaIndexRoute,
+  IndiaStateDestinationRoute: IndiaStateDestinationRoute,
+  IndiaStateIndexRoute: IndiaStateIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

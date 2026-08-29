@@ -1,0 +1,10128 @@
+{
+ "regions": [
+  [
+   "state",
+   "Andhra Pradesh",
+   "andhra_pradesh",
+   "AP",
+   "Amaravati",
+   "Coastal southern state of temples, hills and the Krishna-Godavari deltas."
+  ],
+  [
+   "state",
+   "Arunachal Pradesh",
+   "arunachal_pradesh",
+   "AR",
+   "Itanagar",
+   "Himalayan frontier of misty valleys, monasteries and tribal cultures."
+  ],
+  [
+   "state",
+   "Assam",
+   "assam",
+   "AS",
+   "Dispur",
+   "Tea gardens, the Brahmaputra, one-horned rhinos and warm hospitality."
+  ],
+  [
+   "state",
+   "Bihar",
+   "bihar",
+   "BR",
+   "Patna",
+   "Land of Bodh Gaya's enlightenment and ancient Pataliputra."
+  ],
+  [
+   "state",
+   "Chhattisgarh",
+   "chhattisgarh",
+   "CG",
+   "Raipur",
+   "Waterfall-dotted central state of tribal heritage and dense forests."
+  ],
+  [
+   "state",
+   "Goa",
+   "goa",
+   "GA",
+   "Panaji",
+   "Sun-drenched beaches, Portuguese heritage and laid-back river life."
+  ],
+  [
+   "state",
+   "Gujarat",
+   "gujarat",
+   "GJ",
+   "Gandhinagar",
+   "Wide salt deserts, wild lions, craft villages and the western coast."
+  ],
+  [
+   "state",
+   "Haryana",
+   "haryana",
+   "HR",
+   "Chandigarh",
+   "North Indian heartland of history, wetlands and farmlands."
+  ],
+  [
+   "state",
+   "Himachal Pradesh",
+   "himachal_pradesh",
+   "HP",
+   "Shimla",
+   "Pine-clad Himalayan hill country of trekking trails and rivers."
+  ],
+  [
+   "state",
+   "Jharkhand",
+   "jharkhand",
+   "JH",
+   "Ranchi",
+   "Forest plateau of falls, hills and tribal arts."
+  ],
+  [
+   "state",
+   "Karnataka",
+   "karnataka",
+   "KA",
+   "Bengaluru",
+   "Palace cities, ancient ruins of Hampi, coffee hills and beaches."
+  ],
+  [
+   "state",
+   "Kerala",
+   "kerala",
+   "KL",
+   "Thiruvananthapuram",
+   "Backwaters, spice plantations, hill stations and tropical coast."
+  ],
+  [
+   "state",
+   "Madhya Pradesh",
+   "madhya_pradesh",
+   "MP",
+   "Bhopal",
+   "The heart of India — forests, forts, temples and wildlife."
+  ],
+  [
+   "state",
+   "Maharashtra",
+   "maharashtra",
+   "MH",
+   "Mumbai",
+   "Cosmopolitan coast, Sahyadri ghats, caves and hill retreats."
+  ],
+  [
+   "state",
+   "Manipur",
+   "manipur",
+   "MN",
+   "Imphal",
+   "Lush valley state of the Loktak lake and classical dance."
+  ],
+  [
+   "state",
+   "Meghalaya",
+   "meghalaya",
+   "ML",
+   "Shillong",
+   "Abode of clouds — wettest places, living root bridges, pine hills."
+  ],
+  [
+   "state",
+   "Mizoram",
+   "mizoram",
+   "MZ",
+   "Aizawl",
+   "Blue-green ridges and rivers of the eastern frontier."
+  ],
+  [
+   "state",
+   "Nagaland",
+   "nagaland",
+   "NL",
+   "Kohima",
+   "Warrior tribal state of the Hornbill festival and rugged peaks."
+  ],
+  [
+   "state",
+   "Odisha",
+   "odisha",
+   "OD",
+   "Bhubaneswar",
+   "Temple city fields, sacred Konark sun wheel and quiet coasts."
+  ],
+  [
+   "state",
+   "Punjab",
+   "punjab",
+   "PB",
+   "Chandigarh",
+   "Golden Temple city, fertile fields and a hearty food culture."
+  ],
+  [
+   "state",
+   "Rajasthan",
+   "rajasthan",
+   "RJ",
+   "Jaipur",
+   "The royal desert state of forts, palaces, dunes and vibrant fairs."
+  ],
+  [
+   "state",
+   "Sikkim",
+   "sikkim",
+   "SK",
+   "Gangtok",
+   "Himalayan kingdom of monasteries, peaks and rhododendron forests."
+  ],
+  [
+   "state",
+   "Tamil Nadu",
+   "tamil_nadu",
+   "TN",
+   "Chennai",
+   "Dravidian temples, hill stations and the Coromandel coast."
+  ],
+  [
+   "state",
+   "Telangana",
+   "telangana",
+   "TG",
+   "Hyderabad",
+   "Biryanis, lake-side gardens and Qutb Shahi heritage."
+  ],
+  [
+   "state",
+   "Tripura",
+   "tripura",
+   "TR",
+   "Agartala",
+   "Northeastern state of royal palaces and lush hills."
+  ],
+  [
+   "state",
+   "Uttar Pradesh",
+   "uttar_pradesh",
+   "UP",
+   "Lucknow",
+   "The Taj Mahal, ghats of Varanasi and the vast Gangetic plains."
+  ],
+  [
+   "state",
+   "Uttarakhand",
+   "uttarakhand",
+   "UK",
+   "Dehradun",
+   "Land of gods, Himalayan char dham and alpine adventure."
+  ],
+  [
+   "state",
+   "West Bengal",
+   "west_bengal",
+   "WB",
+   "Kolkata",
+   "Himalayan Darjeeling, mangrove Sundarbans and cultural Kolkata."
+  ],
+  [
+   "union_territory",
+   "Andaman & Nicobar Islands",
+   "andaman_nicobar",
+   "AN",
+   "Port Blair",
+   "Crystal islands of turquoise water, coral reefs and rainforest."
+  ],
+  [
+   "union_territory",
+   "Chandigarh",
+   "chandigarh",
+   "CH",
+   "Chandigarh",
+   "Le Corbusier's planned garden city on the Punjab-Haryana border."
+  ],
+  [
+   "union_territory",
+   "Dadra & Nagar Haveli and Daman & Diu",
+   "dadra_nagar_daman_diu",
+   "DN",
+   "Daman",
+   "Sunny western coast towns and riverside interiors."
+  ],
+  [
+   "union_territory",
+   "Delhi",
+   "delhi",
+   "DL",
+   "New Delhi",
+   "Seven cities of empire — Red Fort, Qutub, markets and modern India."
+  ],
+  [
+   "union_territory",
+   "Jammu & Kashmir",
+   "jammu_kashmir",
+   "JK",
+   "Srinagar",
+   "Snow peaks, lakes, tulip gardens and Himalayan meadows."
+  ],
+  [
+   "union_territory",
+   "Ladakh",
+   "ladakh",
+   "LA",
+   "Leh",
+   "High-altitude moonscapes, monasteries and world-class high passes."
+  ],
+  [
+   "union_territory",
+   "Lakshadweep",
+   "lakshadweep",
+   "LD",
+   "Kavaratti",
+   "A coral atoll archipelago of startlingly clear lagoons."
+  ],
+  [
+   "union_territory",
+   "Puducherry",
+   "puducherry",
+   "PY",
+   "Pondicherry",
+   "French colonial quarter, Auroville and a calm Coromandel coast."
+  ]
+ ],
+ "destinations": [
+  {
+   "name": "Gulmarg",
+   "slug": "gulmarg",
+   "state": "jammu_kashmir",
+   "lat": 34.0489,
+   "lng": 74.3811,
+   "alt": 2690,
+   "summary": "India's premier ski bowl set in alpine conifer meadows at 2,690 m.",
+   "description": "A bowl of rolling alpine meadows ringed by the Apharwat ridge. Reachable by road from Srinagar (52 km); the Gulmarg Gondola, one of the highest cable cars in the world, lifts skiers to 3,979 m in two phases.",
+   "experience": [
+    "Adventure",
+    "Skiing & Snowboarding",
+    "Meadows & Alpine Vistas",
+    "Gondola Rides"
+   ],
+   "season": [
+    "Snow",
+    "Winter",
+    "Summer Blooms",
+    "Sunny"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8
+   ],
+   "budget": "Luxury",
+   "popularity": 88,
+   "hidden": false,
+   "food": [
+    "Wazwan",
+    "Kahwa",
+    "Rogan Josh"
+   ],
+   "festivals": [
+    "Gulmarg Winter Festival",
+    "Synchronised Skiing Championship"
+   ],
+   "local": [
+    "Phase II Gondola ride to Kangdori",
+    "Ski/snowboard lessons",
+    "Snow-biking & zorbing",
+    "Golf at one of the world's highest courses"
+   ],
+   "seasons": [
+    [
+     "Winter Deep Snow",
+     [
+      12,
+      1,
+      2
+     ],
+     "Heavy snowfall, temperatures -12C to -2C.",
+     [
+      "Skiing",
+      "Snowboarding",
+      "Snow photography"
+     ],
+     "High",
+     "Luxury",
+     "Excellent",
+     "Powder season; check gondola phase-II weather conditions."
+    ],
+    [
+     "Spring Bloom",
+     [
+      3,
+      4,
+      5
+     ],
+     "Melting snow, crisp air, flowers returning.",
+     [
+      "Golf",
+      "Treks",
+      "Hiking"
+     ],
+     "Medium",
+     "Moderate",
+     "Great",
+     "Best for avoiding crowds at a lower price."
+    ],
+    [
+     "Summer Meadows",
+     [
+      6,
+      7,
+      8
+     ],
+     "Mild and pleasant, 10C-24C.",
+     [
+      "Pony rides",
+      "Meadow walks",
+      "Picnics"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "Peak family season; snow gone above treeline except Apharwat."
+    ]
+   ],
+   "activities": [
+    [
+     "Skiing & Snowboarding",
+     "Slopes served by gondola phase I and II with rentals and instructors on-site.",
+     "snowflake",
+     "Adventure",
+     [
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "snow",
+      "freezing",
+      "clear"
+     ]
+    ],
+    [
+     "Gondola Phase II Ride",
+     "Dramatic ride from Kongdori to 3,979 m above the valley.",
+     "cable",
+     "Adventure",
+     [
+      12,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+     ],
+     false,
+     [
+      "snow",
+      "clear"
+     ]
+    ],
+    [
+     "Golf at Gulmarg",
+     "One of the highest golf courses in the world set in meadow surroundings.",
+     "golf",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Snow Photography",
+     "Frosted pines and blue-hour light over the Apharwat range.",
+     "camera",
+     "Photography",
+     [
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "snow",
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Gulmarg+Meadows",
+     "Gulmarg valley meadows",
+     "landscape"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Gulmarg+Gondola",
+     "Gulmarg gondola over snow",
+     "winter"
+    ]
+   ]
+  },
+  {
+   "name": "Srinagar",
+   "slug": "srinagar",
+   "state": "jammu_kashmir",
+   "lat": 34.0837,
+   "lng": 74.7973,
+   "alt": 1585,
+   "summary": "Houseboats, Dal Lake shikaras and Mughal gardens in the Kashmir Valley.",
+   "description": "The summer capital of Jammu & Kashmir, served by Srinagar airport (12 km) with direct flights from major metros. The walled old city, Mughal gardens and Dal Lake define a city as romantic as it is historic.",
+   "experience": [
+    "Heritage",
+    "Spiritual",
+    "Leisure",
+    "Culinary"
+   ],
+   "season": [
+    "Spring",
+    "Autumn",
+    "Summer",
+    "Crisp Winter"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "budget": "Moderate",
+   "popularity": 86,
+   "hidden": false,
+   "food": [
+    "Wazwan",
+    "Kahwa",
+    "Bakarkhani"
+   ],
+   "festivals": [
+    "Tulip Festival",
+    "Shikara Festival"
+   ],
+   "local": [
+    "Sunrise shikara ride on Dal Lake",
+    "Houseboat stay",
+    "Tulip garden visit in April",
+    "Wazwan dinner"
+   ],
+   "seasons": [
+    [
+     "Tulip Spring",
+     [
+      3,
+      4,
+      5
+     ],
+     "Blossoms and a mild 10C-22C.",
+     [
+      "Shikara rides",
+      "Garden walks",
+      "City tours"
+     ],
+     "Medium",
+     "Moderate",
+     "Great",
+     "Peak tulip display in April."
+    ],
+    [
+     "Summer",
+     [
+      6,
+      7,
+      8
+     ],
+     "Pleasant 15C-30C with evening lake breezes.",
+     [
+      "Houseboating",
+      "Mughal gardens",
+      "Char Minar"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "High season; book boats early."
+    ],
+    [
+     "Golden Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Chinar trees blaze gold in crisp air.",
+     [
+      "Old city walks",
+      "Photography",
+      "Apple picking"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best photography months."
+    ]
+   ],
+   "activities": [
+    [
+     "Dawn Shikara Ride",
+     "Glide past floating vegetable gardens and lotus beds as the sun rises over Zabarwan hills.",
+     "boat",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Mughal Garden Traversals",
+     "Terraced gardens of Nishat, Shalimar and Chashma Shahi.",
+     "palmtree",
+     "Heritage",
+     [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Houseboat Stay",
+     "Overnight aboard a walnut-carved houseboat with local cuisine.",
+     "home",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear",
+      "rainy"
+     ]
+    ],
+    [
+     "Heritage Wazwan Dinner",
+     "A ceremonial Kashmiri multi-course feast in the old city.",
+     "utensils",
+     "Culinary",
+     [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Srinagar+Dal+Lake",
+     "Dal Lake houseboats",
+     "landscape"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Shalimar+Gardens",
+     "Shalimar Mughal gardens",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Pahalgam",
+   "slug": "pahalgam",
+   "state": "jammu_kashmir",
+   "lat": 34.0399,
+   "lng": 75.2616,
+   "alt": 2740,
+   "summary": "River-side meadows at the head of the Lidder Valley — base for the Amarnath Yatra.",
+   "description": "Green meadows flanking the Lidder river, 95 km from Srinagar airport. Acts as the base camp for the Amarnath cave pilgrimage each summer and a peaceful base for horse treks to Baisaran and Aru.",
+   "experience": [
+    "Adventure",
+    "Meadows",
+    "Pilgrimage",
+    "Trekking"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "budget": "Moderate",
+   "popularity": 72,
+   "hidden": false,
+   "food": [
+    "Kahwa",
+    "Trout curry",
+    "Rogan Josh"
+   ],
+   "festivals": [
+    "Betaab Valley Festival",
+    "Amarnath Yatra"
+   ],
+   "local": [
+    "Horse trek to Baisaran meadow",
+    "Trout fishing in the Lidder",
+    "Angling permits",
+    "Betaab valley picnic"
+   ],
+   "seasons": [
+    [
+     "Yatra Summer",
+     [
+      7,
+      8
+     ],
+     "Pilgrim season; pleasant 8C-24C.",
+     [
+      "Amarnath base",
+      "Horse treks",
+      "River walks"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     "Crowded near the yatra corridor."
+    ],
+    [
+     "Meadow Autumn",
+     [
+      9,
+      10
+     ],
+     "Crisp golden light over the river.",
+     [
+      "Treks",
+      "Photography",
+      "Trout fishing"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     "Quiet and transparently beautiful."
+    ],
+    [
+     "Winter Snow",
+     [
+      12,
+      1,
+      2
+     ],
+     "Snowbound, quiet, sub-zero nights.",
+     [
+      "Snow trails",
+      "Fire-side stays"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Many dhabas close; check road conditions."
+    ]
+   ],
+   "activities": [
+    [
+     "Horse Trek to Baisaran",
+     "The 'mini Switzerland' meadow above Pahalgam with panoramic valley views.",
+     "horse",
+     "Adventure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Betaab Valley Picnic",
+     "Film-set green valley accessible by shared cabs.",
+     "tree-pine",
+     "Leisure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Trout Angling",
+     "Licensed river fishing on the Lidder.",
+     "fish",
+     "Adventure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Amarnath Yatra Base",
+     "Access point for the cave shrine (July-August, registration required).",
+     "church",
+     "Spiritual",
+     [
+      7,
+      8
+     ],
+     false,
+     [
+      "clear",
+      "rainy"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Pahalgam+Lidder",
+     "Lidder river at Pahalgam",
+     "landscape"
+    ]
+   ]
+  },
+  {
+   "name": "Leh",
+   "slug": "leh",
+   "state": "ladakh",
+   "lat": 34.1526,
+   "lng": 77.5771,
+   "alt": 3500,
+   "summary": "High-desert capital of Ladakh under the Stok Kangri range.",
+   "description": "Ladakh's gateway at 3,500 m, reached by Kushok Bakula Rimpochee airport or the Manali/ Srinagar highways. Expect Buddhist monasteries, the Leh Palace and dramatic driving passes on every side.",
+   "experience": [
+    "Adventure",
+    "Monasteries",
+    "High Altitude",
+    "Photography"
+   ],
+   "season": [
+    "Summer",
+    "Crisp Autumn",
+    "Winter"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "budget": "Moderate",
+   "popularity": 82,
+   "hidden": false,
+   "food": [
+    "Thukpa",
+    "Momos",
+    "Butter tea"
+   ],
+   "festivals": [
+    "Hemis Festival",
+    "Ladakh Festival"
+   ],
+   "local": [
+    "Thiksey monastery sunrise",
+    "Khardung La pass drive",
+    "Shanti Stupa walk",
+    "Nubra valley excursion"
+   ],
+   "seasons": [
+    [
+     "Summer Adventure",
+     [
+      6,
+      7,
+      8
+     ],
+     "Oxygen-thin but sunny; 5C-25C.",
+     [
+      "Monastery hops",
+      "Pass drives",
+      "Trekking"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "Roads open; book inner-line permits."
+    ],
+    [
+     "Golden Autumn",
+     [
+      9,
+      10
+     ],
+     "Chill air with gin-clear views.",
+     [
+      "Photography",
+      "Trekking",
+      "Village stays"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Thinner crowds after August."
+    ],
+    [
+     "Closed Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Below -20C at night; roads mostly closed.",
+     [
+      "Winters in Ladakh",
+      "Local life tours"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Only for the prepared; connectivity cut."
+    ]
+   ],
+   "activities": [
+    [
+     "Thiksey Gompa Sunrise",
+     "Monastery backdropped by the Indus valley peaks with early light.",
+     "sunrise",
+     "Spiritual",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Khardung La Drive",
+     "Drive onto one of the world's highest motorable passes.",
+     "car",
+     "Adventure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Hemis Festival",
+     "June mask-dance festival at Ladakh's largest monastery.",
+     "mask",
+     "Cultural",
+     [
+      6,
+      7
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Magnetic Hill & Hall of Fame",
+     "Quirky roadside optical illusion and a mountain-war memorial.",
+     "landmark",
+     "Heritage",
+     [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Leh+Palace",
+     "Leh Palace on the ridge",
+     "heritage"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Thiksey+Monastery",
+     "Thiksey monastery above the Indus",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Nubra Valley",
+   "slug": "nubra_valley",
+   "state": "ladakh",
+   "lat": 34.615,
+   "lng": 77.563,
+   "alt": 3050,
+   "summary": "A hidden gem of sand dunes, cold desert bactrian camels and twin continental rivers.",
+   "description": "Reached over the Khardung La, Nubra's Indus-Shyok confluence creates a cold desert of dunes and apricot orchards. Permits required; stay in Hunder or Diskit.",
+   "experience": [
+    "Offbeat",
+    "Adventure",
+    "Desert",
+    "Photography"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "budget": "Moderate",
+   "popularity": 64,
+   "hidden": true,
+   "food": [
+    "Apricot jam",
+    "Sea buckthorn tea",
+    "Momos"
+   ],
+   "festivals": [
+    "Diskit Festival",
+    "Yarab Tsho Festival"
+   ],
+   "local": [
+    "Bactrian camel ride on Hunder dunes",
+    "Diskit monastery statue",
+    "Hot springs of Panamik",
+    "Yarab Tsho lake trek"
+   ],
+   "seasons": [
+    [
+     "Summer Trek Season",
+     [
+      6,
+      7,
+      8
+     ],
+     "Cool and sunny with warm dunes.",
+     [
+      "Camel rides",
+      "Monastery visits",
+      "Hot springs"
+     ],
+     "Medium",
+     "Moderate",
+     "Great",
+     "Permits and four-wheel drive essential."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10
+     ],
+     "Clear skies, apricot harvest.",
+     [
+      "Village walks",
+      "Photography"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     "Beautifully quiet."
+    ],
+    [
+     "Winter Isolation",
+     [
+      11,
+      12,
+      1
+     ],
+     "Khardung La closed; valley snowed in.",
+     [
+      "Local life"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Not recommended for first-timers."
+    ]
+   ],
+   "activities": [
+    [
+     "Bactrian Camel Dune Ride",
+     "Two-humped camels on the Hunder sand dunes, a cold-desert oddity.",
+     "camel",
+     "Adventure",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Diskit Gompas",
+     "Hilltop monastery housing the giant Maitreya statue overlooking the valley.",
+     "church",
+     "Spiritual",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Panamik Hot Springs",
+     "Sulphur springs tucked at the head of Nubra.",
+     "thermometer",
+     "Leisure",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Nubra+Dunes",
+     "Hunder sand dunes in Nubra",
+     "desert"
+    ]
+   ]
+  },
+  {
+   "name": "Manali",
+   "slug": "manali",
+   "state": "himachal_pradesh",
+   "lat": 32.2432,
+   "lng": 77.1892,
+   "alt": 2050,
+   "summary": "The classic Kullu Valley adventure town at the foot of Rohtang Pass.",
+   "description": "A lively two-kilometre riverside town in the Kullu Valley, 48 km from Kullu-Bhuntar airport and connected by deluxe Volvos from Delhi. Base for Solang valley adventure sports and the Rohtang/Atal tunnel road to Lahaul.",
+   "experience": [
+    "Adventure",
+    "River Rafting",
+    "Skiing",
+    "Mountain Town"
+   ],
+   "season": [
+    "Winter Snow",
+    "Spring",
+    "Monsoon Green",
+    "Autumn"
+   ],
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 84,
+   "hidden": false,
+   "food": [
+    "Siddu",
+    "Kullu trout",
+    "Himachali thali"
+   ],
+   "festivals": [
+    "Winter Carnival",
+    "Hadimba Devi Fair"
+   ],
+   "local": [
+    "Solang Valley paragliding/skiing",
+    "Old Manali cafes",
+    "Hadimba temple",
+    "Atal tunnel to Lahaul"
+   ],
+   "seasons": [
+    [
+     "Winter Snow",
+     [
+      12,
+      1,
+      2
+     ],
+     "Snow down to town level; -5C to 8C.",
+     [
+      "Solang skiing",
+      "Snow activities",
+      "Cafes"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "Festive crowds from New Year."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4,
+      5
+     ],
+     "Blossoms and pleasant 8C-22C.",
+     [
+      "Paragliding",
+      "Trekking",
+      "River rafting"
+     ],
+     "Medium",
+     "Budget",
+     "Great",
+     "Best value window."
+    ],
+    [
+     "Monsoon Slip",
+     [
+      7,
+      8
+     ],
+     "Landslide-prone, heavy rain.",
+     [
+      "Cafes",
+      "Spa retreats",
+      "Indoor sessions"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Roads can close; keep buffers."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Crisp, clear and golden.",
+     [
+      "Trekking",
+      "Photography",
+      "Camping"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best overall season."
+    ]
+   ],
+   "activities": [
+    [
+     "Solang Valley Adventures",
+     "Paragliding, zorbing, quad biking and an aerial ropeway 14 km from Manali.",
+     "globe",
+     "Adventure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Skiing at Solang",
+     "Snow-slope skiing and lessons during the winter months.",
+     "snowflake",
+     "Adventure",
+     [
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "snow",
+      "clear"
+     ]
+    ],
+    [
+     "River Rafting on the Beas",
+     "Rapids between Pirdi and Jhiri as the snow melts.",
+     "waves",
+     "Adventure",
+     [
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Old Manali Café Circuit",
+     "Rooftop cafes over the Beas run by backpacker culture since the 70s.",
+     "coffee",
+     "Leisure",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Manali+Valley",
+     "Kullu valley from Manali",
+     "landscape"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Solang+Valley",
+     "Solang adventure valley",
+     "adventure"
+    ]
+   ]
+  },
+  {
+   "name": "Shimla",
+   "slug": "shimla",
+   "state": "himachal_pradesh",
+   "lat": 31.1048,
+   "lng": 77.1734,
+   "alt": 2200,
+   "summary": "The colonial summer capital on a pine ridge above the Sutlej valley.",
+   "description": "Reachable by the Kalka-Shimla heritage toy train or road from Chandigarh (113 km). Mall Road, the Ridge, Victorian cottages and snow views define this former summer capital of British India.",
+   "experience": [
+    "Heritage",
+    "Colonial",
+    "Hill Station",
+    "Shopping"
+   ],
+   "season": [
+    "Summer",
+    "Monsoon",
+    "Winter Snow",
+    "Spring"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 74,
+   "hidden": false,
+   "food": [
+    "Siddu",
+    "Momos",
+    "Chana madra"
+   ],
+   "festivals": [
+    "Summer Festival",
+    "Ice Skating Carnival"
+   ],
+   "local": [
+    "Morning Mall Road walk",
+    "Toy train descent to Kalka",
+    "Kufri & Jakhoo viewpoint",
+    "Gaiety theatre shows"
+   ],
+   "seasons": [
+    [
+     "Summer Retreat",
+     [
+      4,
+      5,
+      6
+     ],
+     "Cool 12C-25C escape from plains heat.",
+     [
+      "Mall walks",
+      "Kufri",
+      "Heritage tours"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "School-vacation crowds."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Rainy with forest mists.",
+     [
+      "Cafes",
+      "Gaiety theatre",
+      "Shopping"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Trails muddy."
+    ],
+    [
+     "Winter Snow",
+     [
+      12,
+      1,
+      2
+     ],
+     "Snow showers and clear ridge views.",
+     [
+      "Snow walks",
+      "Ridge sunsets",
+      "Toy train"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     "Carry warm layers."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Daffodils and cherry blossoms in the parks.",
+     [
+      "Garden walks",
+      "Photography"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     "Quiet and fresh."
+    ]
+   ],
+   "activities": [
+    [
+     "Kalka-Shimla Toy Train",
+     "UNESCO-listed narrow-gauge ride through 102 tunnels and snowfall pines.",
+     "train",
+     "Heritage",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Ridge & Mall Road Stroll",
+     "Pedestrian spine of colonial Shimla with Himalaya views.",
+     "walk",
+     "Leisure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Jakhoo Temple Viewpoint",
+     "Highest point in town with a giant Hanuman statue and monkey residents.",
+     "landmark",
+     "Spiritual",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Ice Skating Rink",
+     "One of Asia's largest natural outdoor rinks, open in deep winter.",
+     "snowflake",
+     "Adventure",
+     [
+      12,
+      1
+     ],
+     false,
+     [
+      "freezing",
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Shimla+Ridge",
+     "Shimla Ridge at dusk",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Dharamshala",
+   "slug": "dharamshala",
+   "state": "himachal_pradesh",
+   "lat": 32.219,
+   "lng": 76.3234,
+   "alt": 1457,
+   "summary": "Tibetan exile capital and misty Kangra valley hill town.",
+   "description": "Home of His Holiness the Dalai Lama, with an hour's drive from Kangra airport under the Dhauladhar peaks. McLeod Ganj, the Namgyal monastery, trekking and a rich tea culture anchor the town.",
+   "experience": [
+    "Spiritual",
+    "Tibetan Culture",
+    "Trekking",
+    "Mist & Pines"
+   ],
+   "season": [
+    "Spring",
+    "Summer",
+    "Monsoon",
+    "Winter"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 70,
+   "hidden": false,
+   "food": [
+    "Tibetan thukpa",
+    "Momos",
+    "Kangra chai"
+   ],
+   "festivals": [
+    "Tibetan Losar",
+    "His Holiness birthday"
+   ],
+   "local": [
+    "Namgyal monastery prayers",
+    "Triund trail overnight",
+    "Bhagsu waterfall",
+    "Tibetan Institute of Performing Arts"
+   ],
+   "seasons": [
+    [
+     "Spring",
+     [
+      3,
+      4,
+      5
+     ],
+     "Clear Dhauladhar views and 15C-25C days.",
+     [
+      "Monastery visits",
+      "Triund trek",
+      "Cafes"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     "Best season overall."
+    ],
+    [
+     "Summer",
+     [
+      6,
+      7,
+      8
+     ],
+     "Warm with evening downpours.",
+     [
+      "Kickstarting curves",
+      "Museum visits",
+      "Tibetan arts"
+     ],
+     "Medium",
+     "Budget",
+     "Good",
+     "Monsoon eases heat."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Golden light, fewer clouds.",
+     [
+      "Trekking",
+      "Photography"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     "Superb lens days."
+    ],
+    [
+     "Winter Chill",
+     [
+      12,
+      1
+     ],
+     "Frosty mornings, sunny days.",
+     [
+      "Monastery craft",
+      "Tea tastings"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Occasional snow in Mcleodganj."
+    ]
+   ],
+   "activities": [
+    [
+     "Namgyal Monastery Prayers",
+     "Attend debate and prayer sessions of the Dalai Lama's main temple.",
+     "dove",
+     "Spiritual",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Triund Trek",
+     "A 9 km climb from Dharamkot to a ridge camp with glacier views.",
+     "tent",
+     "Adventure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Tsuglagkhang Complex",
+     "Main temple, museum and Kalachakra circles in one courtyard.",
+     "landmark",
+     "Cultural",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Tea & Craft Trails",
+     "Kangra tea estates and Tibetan handicraft ateliers.",
+     "coffee",
+     "Culinary",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Dharamshala+Tibet",
+     "Tsuglagkhang temple, Dharamshala",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Spiti Valley",
+   "slug": "spiti",
+   "state": "himachal_pradesh",
+   "lat": 32.5514,
+   "lng": 77.9731,
+   "alt": 3650,
+   "summary": "A cold-desert Himalayan valley of ancient monasteries, ranked among India's great offbeat drives.",
+   "description": "The middle Himalayas' cold desert, reached from Kaza along the high Kinnaur-Spiti road (opens May/June). Key, Kibber and Tabo monasteries stud the Spiti river canyon. Permits and hardy winter gear required.",
+   "experience": [
+    "Offbeat",
+    "High Altitude",
+    "Monasteries",
+    "Photography"
+   ],
+   "season": [
+    "Summer",
+    "Autumn"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "budget": "Moderate",
+   "popularity": 62,
+   "hidden": true,
+   "food": [
+    "Sea buckthorn",
+    "Buckwheat pancakes",
+    "Butter tea"
+   ],
+   "festivals": [
+    "Losar",
+    "Kye Gompa festival"
+   ],
+   "local": [
+    "Key monastery",
+    "Chandratal lake",
+    "Kibber village",
+    "Crossing the Kunzum La"
+   ],
+   "seasons": [
+    [
+     "Open Summer",
+     [
+      6,
+      7,
+      8
+     ],
+     "Blue skies, warm days, cold nights.",
+     [
+      "Monastery circuit",
+      "Chandratal camp",
+      "Village walks"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Roads and homestays open from June."
+    ],
+    [
+     "Golden Autumn",
+     [
+      9,
+      10
+     ],
+     "Arid gold light and crystal night skies.",
+     [
+      "Photography",
+      "Trekking",
+      "Star camps"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     "Cut-off from late October."
+    ],
+    [
+     "Winter Isolation",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Deep snow and minus-25C.",
+     [
+      "Pangmo",
+      "Spiti winters tours"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Specialist only."
+    ]
+   ],
+   "activities": [
+    [
+     "Key Monastery Circuit",
+     "Cliff-perched medieval monastery with murals and 300 monks.",
+     "church",
+     "Spiritual",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Chandratal Lake Camp",
+     "Moon lake at 4,300 m on the Kunzum side, a starlit desert pool.",
+     "tent",
+     "Adventure",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Kibber & Giu Walks",
+     "One of the world's highest inhabited villages and ancient fossil sites nearby.",
+     "walk",
+     "Offbeat",
+     [
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Star Photography",
+     "Some of India's darkest skies for astro shots.",
+     "camera",
+     "Photography",
+     [
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Key+Monastery",
+     "Key monastery above Spiti",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Jaipur",
+   "slug": "jaipur",
+   "state": "rajasthan",
+   "lat": 26.9124,
+   "lng": 75.7873,
+   "alt": 431,
+   "summary": "The Pink City of forts, bazaars and royal courtyards — gateway to Rajasthan.",
+   "description": "Rajasthan's capital behind cobride walls, served by Jaipur international airport and rail to Delhi (300 km). Amber Fort, Hawa Mahal and the City Palace form a heritage triangle of the first rank.",
+   "experience": [
+    "Heritage",
+    "Architecture",
+    "Shopping",
+    "Culinary"
+   ],
+   "season": [
+    "Pleasant Winter",
+    "Spring",
+    "Summer"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Moderate",
+   "popularity": 90,
+   "hidden": false,
+   "food": [
+    "Dal baati churma",
+    "Laal maas",
+    "Ghevar"
+   ],
+   "festivals": [
+    "Teej",
+    "Jaipur Literature Festival",
+    "Kite Festival"
+   ],
+   "local": [
+    "Amber Fort elephant/hybrid access",
+    "Bazaar crawl for block prints",
+    "Stepwell Nahargarh sunset",
+    "Cultural shows at Chokhi Dhani"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear 8C-25C days ideal for sightseeing.",
+     [
+      "Fort circuit",
+      "Old city bazaars",
+      "Festivals"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Book heritage hotels early."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      3,
+      4
+     ],
+     "Warm days with blossoms.",
+     [
+      "Photography",
+      "Rajasthan safari"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Scorching Summer",
+     [
+      5,
+      6
+     ],
+     "Unforgiving 35C-45C heat.",
+     [
+      "Museum afternoons",
+      "Pool retreats"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Plan around early mornings."
+    ]
+   ],
+   "activities": [
+    [
+     "Amber Fort",
+     "Hilltop rajput palace reached by shared jeeps or elephants.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Hawa Mahal & Bazaars",
+     "The winds' palace facade and Johari Bazar's gem and textile lanes.",
+     "building",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Nahargarh Sunset",
+     "Sunset terrace over the Pink City walls.",
+     "sunrise",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Jal Mahal & Stepwells",
+     "Lake palace and old-city water architecture.",
+     "water",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Hawa+Mahal",
+     "Hawa Mahal facade, Jaipur",
+     "heritage"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Amber+Fort",
+     "Amber Fort amphitheatre",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Udaipur",
+   "slug": "udaipur",
+   "state": "rajasthan",
+   "lat": 24.5854,
+   "lng": 73.7125,
+   "alt": 600,
+   "summary": "The 'city of lakes' framed by the Aravali hills — Rajput romance on water.",
+   "description": "Built around Lake Pichola under the Aravali ridge, 250 km from Jaipur with a small airport and rail connection. City Palace, lake palaces and ghat life make it the most photographed city in Rajasthan.",
+   "experience": [
+    "Heritage",
+    "Lake",
+    "Romantic",
+    "Culinary"
+   ],
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Moderate",
+   "popularity": 88,
+   "hidden": false,
+   "food": [
+    "Laal maas",
+    "Dal baati",
+    "Kachori"
+   ],
+   "festivals": [
+    "Mewar Festival",
+    "Shilpgram fair"
+   ],
+   "local": [
+    "Sunset boat ride on Pichola",
+    "City Palace self-guided audio tour",
+    "Monsoon Palace viewpoint",
+    "Gangaur ghat ceremony"
+   ],
+   "seasons": [
+    [
+     "Winter Ideal",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Mild 8C-25C and mirror-flat lakes.",
+     [
+      "Boat rides",
+      "Palace tours",
+      "Old city"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Prime season."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm and blooming round the lakes.",
+     [
+      "Garden walks",
+      "Marigold alleys"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     "Festive buzz."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8,
+      9
+     ],
+     "Rain refills Fateh Sagar and Pichola.",
+     [
+      "Lake views",
+      "Ghat restaurants"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Dramatic skies."
+    ]
+   ],
+   "activities": [
+    [
+     "Lake Pichola Boat Ride",
+     "Golden-hour ride past Jag Mandir to the island palace.",
+     "boat",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "City Palace Complex",
+     "A layered mahal of courtyards, peacock mosaics and lake views.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Kumbhalgarh Excursion",
+     "The Great Wall of India — a 36 km fort perimeter 82 km away.",
+     "landmark",
+     "Adventure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Bagore Ki Haveli",
+     "Dance show and museum on the lake's edge.",
+     "music",
+     "Cultural",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Udaipur+Pichola",
+     "Lake Pichola sunset",
+     "lake"
+    ]
+   ]
+  },
+  {
+   "name": "Jaisalmer",
+   "slug": "jaisalmer",
+   "state": "rajasthan",
+   "lat": 26.9157,
+   "lng": 70.9083,
+   "alt": 225,
+   "summary": "The golden fort city rising from the Thar desert.",
+   "description": "A walled sandstone town 575 km west of Jaipur, within a night train from Delhi and reachable by the Jodhpur-Jaisalmer line. Fort, havelis and Sam Dunes camel safaris define the desert experience.",
+   "experience": [
+    "Desert",
+    "Heritage",
+    "Camel Safari",
+    "Forts"
+   ],
+   "season": [
+    "Winter",
+    "Spring Stand-in",
+    "Monsoon"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Moderate",
+   "popularity": 76,
+   "hidden": false,
+   "food": [
+    "Ker sangri",
+    "Gatte",
+    "Desert kulfi"
+   ],
+   "festivals": [
+    "Desert Festival",
+    "Marwar festival"
+   ],
+   "local": [
+    "Camel safari to Sam dunes",
+    "Fort laser/history walk",
+    "Gadisar lake sunset",
+    "Night stay under stars"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear sunny 6C-25C desert days.",
+     [
+      "Dune safaris",
+      "Fort tours",
+      "Festivals"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "The only season for easy camping."
+    ],
+    [
+     "Spring Heat",
+     [
+      3,
+      4
+     ],
+     "Building heat, still dry.",
+     [
+      "Dawn safaris",
+      "Havelis"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Pre-dawn starts."
+    ],
+    [
+     "Monsoon Tone",
+     [
+      7,
+      8,
+      9
+     ],
+     "Thar's rare rain greens the dunes.",
+     [
+      "Landscape photography"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Roads to dunes may flood."
+    ]
+   ],
+   "activities": [
+    [
+     "Sam Sand Dunes Safari",
+     "Sunset camel trek and star-camp on the western dunes.",
+     "camel",
+     "Adventure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Living Fort of Jaisalmer",
+     "A 12th-century fort still inhabited and honeycombed with temples.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Patwon Ki Haveli",
+     "A five-brother merchant mansion carved in gold sandstone.",
+     "building",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Gadisar Lake Sunset",
+     "Tank-side monasteries and temples at dusk.",
+     "sunrise",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Jaisalmer+Fort",
+     "Jaisalmer fort from the dunes",
+     "desert"
+    ]
+   ]
+  },
+  {
+   "name": "Jodhpur",
+   "slug": "jodhpur",
+   "state": "rajasthan",
+   "lat": 26.2389,
+   "lng": 73.0243,
+   "alt": 231,
+   "summary": "The blue city beneath the Mehrangarh citadel.",
+   "description": "Rajasthan's second city, 300 km from Jaipur on the main Delhi rail corridor. The ridgetop Mehrangarh Fort and a labyrinthine blue old city are the anchors.",
+   "experience": [
+    "Heritage",
+    "Forts",
+    "Blue City",
+    "Museums"
+   ],
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 70,
+   "hidden": false,
+   "food": [
+    "Makhaniya lassi",
+    "Mirchi vada",
+    "Gudiyon ki sabzi"
+   ],
+   "festivals": [
+    "Marwar Festival",
+    "Jodhpur Flamenco"
+   ],
+   "local": [
+    "Mehrangarh sound-and-light show",
+    "Sardar market spice crawl",
+    "Toorji stepwell",
+    "Rao Jodha rock park"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear and cool.",
+     [
+      "Fort tours",
+      "Blue city walks",
+      "Museums"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     "Great shoulder pricing."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm sunny days.",
+     [
+      "Stepwell photography",
+      "Old city"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Summer",
+     [
+      5,
+      6
+     ],
+     "Extreme heat.",
+     [
+      "Inside-fort museums",
+      "Basement restaurants"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Escape the sun by noon."
+    ]
+   ],
+   "activities": [
+    [
+     "Mehrangarh Fort",
+     "Among India's great citadels with palace galleries and a chauki durbar.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Blue City Walk",
+     "Brahmin quarter lanes painted in indigo wash above the clock tower.",
+     "walk",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Toorji's Stepwell",
+     "Ornate 18th-century water architecture now ringed by cafes.",
+     "water",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Rao Jodha Desert Park",
+     "Restored arid landscape under the fort with native flora trails.",
+     "tree-pine",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Mehrangarh+Fort",
+     "Mehrangarh above the blue city",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Pushkar",
+   "slug": "pushkar",
+   "state": "rajasthan",
+   "lat": 26.4897,
+   "lng": 74.5514,
+   "alt": 510,
+   "summary": "A holy lake town of ghats, camels and the world's largest camel fair.",
+   "description": "A compact sacred town 145 km from Jaipur around the Pushkar lake. Its annual November camel fair and the only Brahma temple in India pull pilgrims and travellers alike.",
+   "experience": [
+    "Spiritual",
+    "Cultural",
+    "Offbeat"
+   ],
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 66,
+   "hidden": false,
+   "food": [
+    "Malpua",
+    "Kachori",
+    "Chai bazaars"
+   ],
+   "festivals": [
+    "Pushkar Camel Fair",
+    "Kartik Purnima"
+   ],
+   "local": [
+    "Evening aarti at ghat steps",
+    "Camel fair rides & stalls",
+    "Savitri temple sunrise",
+    "Davis road cafes"
+   ],
+   "seasons": [
+    [
+     "Fair Winter",
+     [
+      10,
+      11,
+      12
+     ],
+     "Cool fair season with the camel fest in Kartik.",
+     [
+      "Camel fair",
+      "Ghat aarti",
+      "Bazaars"
+     ],
+     "Very High",
+     "Moderate",
+     "Good",
+     "Book months ahead for the fair."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Pleasant settled days.",
+     [
+      "Spiritual circuits",
+      "Cafes",
+      "Photography"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm and calm.",
+     [
+      "Lake morning walks",
+      "Temple hops"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Pushkar Camel Fair",
+     "November's giant camera-friendly livestock and bazaar fair.",
+     "camel",
+     "Cultural",
+     [
+      11
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Brahma Temple & Ghats",
+     "Rare shrine to Brahma with the 52 temple ghats below.",
+     "church",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Savitri Temple Sunrise",
+     "Hilltop climb for a golden view over the lake.",
+     "sunrise",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Ghat Aarti Evening",
+     "Sunset lamps set afloat on the sarovar.",
+     "dove",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Pushkar+Lake",
+     "Pushkar ghats at dusk",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Agra",
+   "slug": "agra",
+   "state": "uttar_pradesh",
+   "lat": 27.1767,
+   "lng": 78.0081,
+   "alt": 171,
+   "summary": "Home of the Taj Mahal — the moon-white mausoleum of love.",
+   "description": "Agra Fort, Fatehpur Sikri and the Taj sit on the Yamuna, 200 km from Delhi by train or the new Yamuna Expressway. Sunrise entry to the Taj is the signature ritual.",
+   "experience": [
+    "Heritage",
+    "Architecture",
+    "World Wonder"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Moderate",
+   "popularity": 92,
+   "hidden": false,
+   "food": [
+    "Petha",
+    "Bedai with jalebi",
+    "Mughlai"
+   ],
+   "festivals": [
+    "Taj Mahotsav",
+    "Ram Barat"
+   ],
+   "local": [
+    "Taj at sunrise",
+    "Agra fort ramparts",
+    "Fatehpur Sikri day trip",
+    "Old books & marble inlay work"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Cool 8C-24C, clear haze-free mornings.",
+     [
+      "Taj sunrise",
+      "Fort",
+      "Sikri"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Best time."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm but fine early starts.",
+     [
+      "Taj sunrise",
+      "Garden walks"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Summer Heat",
+     [
+      5,
+      6
+     ],
+     "45C+ days; hits the marble glare.",
+     [
+      "Indoor museums",
+      "Taj at dawn only"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     "Strictly dawn visits."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Humid, occasional heavy cells.",
+     [
+      "Fort interiors",
+      "Craft bazaars"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     "Carry rain gear."
+    ]
+   ],
+   "activities": [
+    [
+     "Taj Mahal Sunrise",
+     "Entry at dawn for pink-marble light before the crowds.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Agra Fort",
+     "1500-ft red-sandstone fortress with palace views to the Taj.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Fatehpur Sikri Day Trip",
+     "Akbar's abandoned imperial ghost city, 40 km west.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Marble Inlay Workshop",
+     "Watch pieta dura artisans practicing Taj-era craft.",
+     "hand",
+     "Cultural",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Taj+Mahal",
+     "Taj Mahal reflected at dawn",
+     "heritage"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Agra+Fort",
+     "Agra Fort along the Yamuna",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Varanasi",
+   "slug": "varanasi",
+   "state": "uttar_pradesh",
+   "lat": 25.3176,
+   "lng": 82.9739,
+   "alt": 81,
+   "summary": "The eternal city on the Ganga — ghats, aartis and winding lanes.",
+   "description": "One of the world's oldest living cities, on the Ganges with direct rail from Delhi and an airport 22 km out. Dawn boat rides and the Dev Deepawali aarti are the core experiences.",
+   "experience": [
+    "Spiritual",
+    "Heritage",
+    "Cultural"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Post-monsoon"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 88,
+   "hidden": false,
+   "food": [
+    "Kachori sabzi",
+    "Banarasi paan",
+    "Malaiyyo"
+   ],
+   "festivals": [
+    "Dev Deepawali",
+    "Shivratri",
+    "Ganga Mahotsav"
+   ],
+   "local": [
+    "Dawn Ganga boat ride",
+    "Evening Ganga aarti at Dasashwamedh",
+    "Kashi Vishwanath corridor",
+    "Sarnath Buddhist ruins"
+   ],
+   "seasons": [
+    [
+     "Festive Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear and brisk.",
+     [
+      "Boat rides",
+      "Aarti",
+      "Alley walks"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Dev Deepawali (Nov) spectacular."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm days, crowded ghats.",
+     [
+      "Temple circuit",
+      "Photography"
+     ],
+     "Medium",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Humid with river swells.",
+     [
+      "Ghat promenades",
+      "Banaras silk"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Boats restricted at flood time."
+    ]
+   ],
+   "activities": [
+    [
+     "Dawn Boat on the Ganga",
+     "Subah-e-Banaras glide past the ghats as the city wakes.",
+     "boat",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Dasashwamedh Aarti",
+     "Large evening fire-and-lamp ceremony on the main ghat.",
+     "dove",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Kashi Vishwanath Corridor",
+     "The newly opened Golden Temple approach.",
+     "church",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sarnath Half-Day",
+     "Buddha's first-sermon site with the Ashoka pillar, 10 km away.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Varanasi+Ghats",
+     "Varanasi ghats at dawn",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Mathura-Vrindavan",
+   "slug": "mathura_vrindavan",
+   "state": "uttar_pradesh",
+   "lat": 27.4924,
+   "lng": 77.6737,
+   "alt": 175,
+   "summary": "Birthplace of Krishna — temple-dense sacred towns on the Yamuna.",
+   "description": "Twin holy towns 150 km from Delhi on the Agra road (with dedicated rail). Temples, Govardhan hill and a raw devotional tempo define the experience, peaking at Holi and Janmashtami.",
+   "experience": [
+    "Spiritual",
+    "Cultural",
+    "Festivals"
+   ],
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Budget",
+   "popularity": 60,
+   "hidden": false,
+   "food": [
+    "Peda",
+    "Makhan mishri",
+    "Rajasthani-chaat",
+    "Malpua"
+   ],
+   "festivals": [
+    "Lathmar Holi",
+    "Janmashtami",
+    "Krishna Janmotsav"
+   ],
+   "local": [
+    "Prem Mandir evening show",
+    "Keshav Dev temple",
+    "Govardhan parikrama",
+    "Holi in Barsana"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Pleasant, busy with pilgrims.",
+     [
+      "Temple circuit",
+      "Evening aartis"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Avoid weekends for the crowds."
+    ],
+    [
+     "Spring Holi",
+     [
+      3
+     ],
+     "Kite-and-colour madness.",
+     [
+      "Barsana Lathmar Holi",
+      "Colour streets"
+     ],
+     "Very High",
+     "Budget",
+     "Good",
+     "March 2026 Holi — plan early."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Hot and steamy.",
+     [
+      "Temple interiors",
+      "Shravan vrat"
+     ],
+     "Medium",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Prem Mandir Spectacle",
+     "Illuminated marble temple with evening light-and-kirtan show.",
+     "church",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Boond & Yamuna Ghats",
+     "Sacred baths and tiny shrines down to the river.",
+     "water",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Barsana Lathmar Holi",
+     "The world-famous stick-festival village, a March ritual.",
+     "mask",
+     "Cultural",
+     [
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Gokul & Govardhan",
+     "Krishna's childhood pastures and parikrama hill.",
+     "mountain",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Vrindavan+Temples",
+     "Vrindavan temple skyline",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Rishikesh",
+   "slug": "rishikesh",
+   "state": "uttarakhand",
+   "lat": 30.0869,
+   "lng": 78.2676,
+   "alt": 372,
+   "summary": "Yoga capital of the world on the Ganges — ashrams, rafting and beach cafes.",
+   "description": "An ashram-lined town where the Ganges leaves the mountains, 25 km from Dehradun airport and 240 km from Delhi. Yoga teacher trainings, Laxman Jhula and Grade-3 white-water rafting anchor the scene.",
+   "experience": [
+    "Adventure",
+    "Yoga",
+    "River Rafting",
+    "Spiritual"
+   ],
+   "season": [
+    "Spring Rafting",
+    "Summer",
+    "Winter Yoga"
+   ],
+   "months": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Budget",
+   "popularity": 78,
+   "hidden": false,
+   "food": [
+    "Ganga-side thalis",
+    "Sattvic meals",
+    "Chole kulche"
+   ],
+   "festivals": [
+    "International Yoga Festival",
+    "Kanwar Yatra"
+   ],
+   "local": [
+    "Sunrise rafting on the Ganga",
+    "Vashishtha cave walk",
+    "Neer Garh waterfall trek",
+    "Aarti at Triveni ghat"
+   ],
+   "seasons": [
+    [
+     "Prime Rafting",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Cool, clear, raftable water.",
+     [
+      "Rafting",
+      "Yoga",
+      "Beach camps"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Winter sun is on the river."
+    ],
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Hot with full snow melt.",
+     [
+      "Morning rafting",
+      "Waterfall treks"
+     ],
+     "Medium",
+     "Budget",
+     "Good",
+     "Beat the heat by dawn."
+    ],
+    [
+     "Monsoon Caution",
+     [
+      7,
+      8
+     ],
+     "Rafting closed, rain heavy.",
+     [
+      "Ashrams",
+      "Cafes",
+      "Temples"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Landslides possible."
+    ]
+   ],
+   "activities": [
+    [
+     "Ganga River Rafting",
+     "Marine Drive stretch rapids from Shivpuri, grades 2-3 with guides.",
+     "waves",
+     "Adventure",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Yoga Classes",
+     "Morning ashtanga and pranayama at ghat-side studios.",
+     "sparkles",
+     "Wellness",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Vashishtha Cave & Neer Garh",
+     "Trek to the ashram cave then the waterfall above the river.",
+     "mountain",
+     "Adventure",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Triveni Ghat Aarti",
+     "Sunset lamp ceremony under the Lakshman Jhula at dusk.",
+     "dove",
+     "Spiritual",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Rishikesh+Laxman+Jhula",
+     "Laxman Jhula over the Ganga",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Mussoorie",
+   "slug": "mussoorie",
+   "state": "uttarakhand",
+   "lat": 30.4598,
+   "lng": 78.0644,
+   "alt": 2000,
+   "summary": "Queen of the hills — a mist-loved colonial ridge town.",
+   "description": "A deodar-and-coffee hill station 35 km from Dehradun airport, with the Mall Road ridge walking spine and the Himalayan range behind Kempty falls. Weekend favourite of Delhi.",
+   "experience": [
+    "Hill Station",
+    "Heritage",
+    "Weekend Escape"
+   ],
+   "season": [
+    "Summer",
+    "Monsoon",
+    "Winter Snow"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 68,
+   "hidden": false,
+   "food": [
+    "Momos",
+    "Waffles",
+    "Rajma chawal"
+   ],
+   "festivals": [
+    "Winterline Fair",
+    "Mall festival"
+   ],
+   "local": [
+    "Camel's Back walk",
+    "Kempty falls",
+    "Gun Hill cable car",
+    "Company garden sunset"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Cool 12C-22C, escape heat.",
+     [
+      "Mall Road",
+      "Kempty",
+      "Cable car"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     "Weekends packed."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Rains and mists lock the ridge.",
+     [
+      "Cafes",
+      "Library walks"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     "Views vanish."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Crisp and clear again.",
+     [
+      "Sunset views",
+      "Hiking"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best season."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1
+     ],
+     "Frost and occasional snow.",
+     [
+      "Winterline fair",
+      "Fog walks"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Mall Road & Camel's Back",
+     "Flat ridge promenade with the full Himalayan horizon.",
+     "walk",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Gun Hill Cable Car",
+     "Short tram to the ridge's highest point.",
+     "cable",
+     "Adventure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Kempty Falls",
+     "Cascading terraces 15 km out, famous for picnics.",
+     "water",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Company Garden & Cloud End",
+     "Terraced gardens and an orchard sunset point.",
+     "tree-pine",
+     "Leisure",
+     [
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Mussoorie+Ridge",
+     "Mussoorie Mall Road in mist",
+     "hill_station"
+    ]
+   ]
+  },
+  {
+   "name": "Nainital",
+   "slug": "nainital",
+   "state": "uttarakhand",
+   "lat": 29.3919,
+   "lng": 79.4542,
+   "alt": 2084,
+   "summary": "The emerald lake town cradled by seven hills.",
+   "description": "A pear-shaped Naini lake ring of a hill town, 300 km from Delhi and 64 km from Kathgodam railhead. Boating, the high-altitude Naini peak and the zoo-mall circuit define it.",
+   "experience": [
+    "Hill Station",
+    "Lake",
+    "Heritage"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 65,
+   "hidden": false,
+   "food": [
+    "Bun momos",
+    "Kulcha",
+    "Bal mithai"
+   ],
+   "festivals": [
+    "Nanda Devi Fair",
+    "Winter Carnival"
+   ],
+   "local": [
+    "Morning boat on Naini lake",
+    "Naina Devi temple",
+    "Tiffin Top horses",
+    "Snow point in winter"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Mild lake weather.",
+     [
+      "Boating",
+      "Mall",
+      "Tiffin top"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Clear golden hills.",
+     [
+      "Photography",
+      "Lake walks"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Snow carpets the market bowl.",
+     [
+      "Snow point",
+      "Fog lakeside"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Naini Lake Boating",
+     "Rowing boats and early light on the tear-drop lake.",
+     "boat",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Naina Devi Temple",
+     "A Himalayan shrine at the lake's northern corner.",
+     "church",
+     "Spiritual",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Tiffin Top Ponies",
+     "Horse ride to a picnic knoll above the northern ridge.",
+     "horse",
+     "Adventure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Snow Point",
+     "Winter sledging slope at the far end of the lake.",
+     "snowflake",
+     "Adventure",
+     [
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "snow",
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Nainital+Lake",
+     "Naini lake ringed by hills",
+     "lake"
+    ]
+   ]
+  },
+  {
+   "name": "Auli",
+   "slug": "auli",
+   "state": "uttarakhand",
+   "lat": 30.5272,
+   "lng": 79.5622,
+   "alt": 2519,
+   "summary": "A garhwali ski slope and ropeway above the Nanda Devi amphitheatre.",
+   "description": "An open snow bowl at 2,519-3,050 m with a cable-car link from Joshimath and a road from Badrinath highway. India's most popular beginner ski slopes with a famous 12-km deodar trek.",
+   "experience": [
+    "Adventure",
+    "Skiing",
+    "Alpine Meadows",
+    "Meadow Treks"
+   ],
+   "season": [
+    "Winter Ski",
+    "Summer",
+    "Autumn"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    5,
+    6,
+    9,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 58,
+   "hidden": false,
+   "food": [
+    "Kandalee ki sabzi",
+    "Garhwali rotis",
+    "Jhangora kheer"
+   ],
+   "festivals": [
+    "Auli Winter Sport Festival",
+    "Nanda Devi Raj Jat"
+   ],
+   "local": [
+    "Ski courses (Jan-Mar)",
+    "Ropeway to Auli",
+    "Trek to Gorson top",
+    "Chattar Kund lake"
+   ],
+   "seasons": [
+    [
+     "Ski Season",
+     [
+      12,
+      1,
+      2,
+      3
+     ],
+     "Fresh powder and training courses.",
+     [
+      "Skiing",
+      "Snow grooming",
+      "Ropeway"
+     ],
+     "Medium",
+     "Budget",
+     "Great",
+     "Book ski certs in advance."
+    ],
+    [
+     "Summer",
+     [
+      5,
+      6,
+      7
+     ],
+     "Alpine meadows bloom.",
+     [
+      "Gorson trek",
+      "Photography",
+      "Camping"
+     ],
+     "Low",
+     "Budget",
+     "Great",
+     "Hidden-gem value."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10
+     ],
+     "Crystal Nanda Devi views.",
+     [
+      "Trekking",
+      "Ropeway rides"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Auli Ski Courses",
+     "Beginner-to-intermediate runs with certified instructors and rentals.",
+     "snowflake",
+     "Adventure",
+     [
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "snow",
+      "clear"
+     ]
+    ],
+    [
+     "Auli-Joshimath Ropeway",
+     "Asia's longest public cable car with layered ridge views.",
+     "cable",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Gorson Meadow Trek",
+     "A 3 km trail to a lookout over the Nanda Devi range.",
+     "mountain",
+     "Adventure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Kwang Temple & Chattar Kund",
+     "Forest temple climb and a mirroring lake.",
+     "church",
+     "Spiritual",
+     [
+      4,
+      5,
+      6,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Auli+Snow+Bowl",
+     "Auli ski bowl in winter",
+     "winter"
+    ]
+   ]
+  },
+  {
+   "name": "Darjeeling",
+   "slug": "darjeeling",
+   "state": "west_bengal",
+   "lat": 27.036,
+   "lng": 88.2627,
+   "alt": 2045,
+   "summary": "The queen of Himalayan hill stations — tea gardens and the toy train.",
+   "description": "A tea-country ridge town 88 km from Bagdogra airport, famous for the Kanchenjunga sunrise at Tiger Hill and the UNESCO Darjeeling Himalayan Railway. Tea estates and Ghoom monastery complete the mix.",
+   "experience": [
+    "Hill Station",
+    "Tea",
+    "Heritage",
+    "Himalayan Views"
+   ],
+   "season": [
+    "Spring",
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 80,
+   "hidden": false,
+   "food": [
+    "Momos",
+    "Thukpa",
+    "Darjeeling first-flush tea"
+   ],
+   "festivals": [
+    "Darjeeling Carnival",
+    "Trekker's festival"
+   ],
+   "local": [
+    "Tiger Hill sunrise",
+    "Toy train joyride",
+    "Happy Valley tea tour",
+    "Darjeeling zoo & Himalayan Mountaineering Institute"
+   ],
+   "seasons": [
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Clear Kanchenjunga views.",
+     [
+      "Tiger Hill",
+      "Tea tours",
+      "Toy train"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Best season."
+    ],
+    [
+     "Summer",
+     [
+      5,
+      6
+     ],
+     "Mild, rhododendrons.",
+     [
+      "Trekking",
+      "Garden walks"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Crisp visibility returns.",
+     [
+      "Photography",
+      "Tea plucking"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     ""
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Biting cold, clear snowline.",
+     [
+      "Tiger Hill",
+      "Museum days"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     "Pack thermal layers."
+    ]
+   ],
+   "activities": [
+    [
+     "Tiger Hill Sunrise",
+     "Pre-dawn vigil for Kanchenjunga's alpenglow.",
+     "sunrise",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Darjeeling Himalayan Railway",
+     "A steam joy-ride on the UNESCO-listed toy train.",
+     "train",
+     "Heritage",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Happy Valley Tea Estate",
+     "A working 19th-century estate fractioned out to pluckers and pressers.",
+     "leaf",
+     "Culinary",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear",
+      "rainy"
+     ]
+    ],
+    [
+     "Batasia Loop & Ghoom",
+     "Spiral rail loop and the high-altitude monastery viewpoint.",
+     "train",
+     "Heritage",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Darjeeling+Tea+Gardens",
+     "Tea garden terraces, Darjeeling",
+     "tea"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Toy+Train",
+     "Darjeeling toy train",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Sundarbans",
+   "slug": "sundarbans",
+   "state": "west_bengal",
+   "lat": 22.0309,
+   "lng": 88.7384,
+   "alt": 3,
+   "summary": "The world's largest tidal mangrove forest — the tiger's estuary kingdom.",
+   "description": "A UNESCO Biosphere Reserve of delta islands between Kolkata and Bangladesh, entered from Sonakhali/Godkhali (100 km from Kolkata). Boat safaris seek the Royal Bengal tiger, estuarine crocs and Gangetic dolphins.",
+   "experience": [
+    "Wildlife",
+    "Boat Safari",
+    "Mangroves",
+    "Offbeat"
+   ],
+   "season": [
+    "Winter",
+    "Post-monsoon",
+    "Summer"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Moderate",
+   "popularity": 58,
+   "hidden": false,
+   "food": [
+    "Fish curry",
+    "Chital meat (permits)",
+    "Golden prawns"
+   ],
+   "festivals": [
+    "Bonbibi Puja",
+    "Sunder Mela"
+   ],
+   "local": [
+    "Canoe through creeks",
+    "Sudhanyakhali watchtower",
+    "Dayakumari island forest",
+    "Dolphin spotting at Sajnekhali"
+   ],
+   "seasons": [
+    [
+     "Best Season",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Dry, cool, animal movements on bank.",
+     [
+      "Boat safaris",
+      "Watchtowers",
+      "Birding"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Permits via forest dept needed."
+    ],
+    [
+     "Summer",
+     [
+      3,
+      4,
+      5
+     ],
+     "Hot but visible tiger roaming.",
+     [
+      "Early safaris"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     "June heat extreme."
+    ],
+    [
+     "Monsoon Closed",
+     [
+      7,
+      8,
+      9
+     ],
+     "Creeks swell; many routes closed.",
+     [
+      "Rain-window boat rides"
+     ],
+     "Low",
+     "Moderate",
+     "Poor",
+     "Parks often close."
+    ]
+   ],
+   "activities": [
+    [
+     "Canopy Boat Safari",
+     "Multi-hour motorized prowl through mangrove channels.",
+     "boat",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Watchtower Stops",
+     "Sudhanyakhali and Sajnekhali towers with tiger-print mudbanks.",
+     "eye",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sajnekhali Bird Center",
+     "Herons, kingfishers and muddy island waders.",
+     "bird",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Dolphin Sighting",
+     "Gangetic dolphins in the estuary channels at dawn.",
+     "fish",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Sundarbans+Creek",
+     "Mangrove creek in the Sundarbans",
+     "wildlife"
+    ]
+   ]
+  },
+  {
+   "name": "Gangtok",
+   "slug": "gangtok",
+   "state": "sikkim",
+   "lat": 27.3389,
+   "lng": 88.6065,
+   "alt": 1650,
+   "summary": "Sikkim's hill capital of monasteries, cable cars and Kanchenjunga framing.",
+   "description": "A neat hill city 124 km from Bagdogra airport and a short drive from the Tsomgo lake road. Rumtek monastery, the ropeway and weekend views of Kanchenjunga make it Sikkim's basecamp.",
+   "experience": [
+    "Hill Station",
+    "Monasteries",
+    "Himalayan Views",
+    "Culture"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 74,
+   "hidden": false,
+   "food": [
+    "Thukpa",
+    "Gundruk",
+    "Sikkimese momos"
+   ],
+   "festivals": [
+    "Losar",
+    "Saga Dawa",
+    "International Flower Festival"
+   ],
+   "local": [
+    "MG Marg stroll",
+    "Gangtok ropeway",
+    "Rumtek monastery",
+    "Tsomgo & Nathu La permits"
+   ],
+   "seasons": [
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Cherry/pollen-clear views.",
+     [
+      "MG Marg",
+      "Rumtek",
+      "Flower fest"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     ""
+    ],
+    [
+     "Summer",
+     [
+      5,
+      6
+     ],
+     "Warm days, valleys in bloom.",
+     [
+      "Ropeway",
+      "Pine trails"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Best Kanchenjunga visibility.",
+     [
+      "Photography",
+      "Tsomgo day",
+      "Homestays"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Peak trekking season."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Cold and clear with snow roads above.",
+     [
+      "Tsomgo snow",
+      "Monastery lights"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Rumtek Monastery",
+     "The largest monastery in Sikkim, seat of the Karmapa.",
+     "church",
+     "Spiritual",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "MG Marg & Ropeway",
+     "Pedestrian heart of Gangtok and a cable swoop over the valleys.",
+     "cable",
+     "Leisure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear",
+      "any"
+     ]
+    ],
+    [
+     "Tsomgo Lake Day Trip",
+     "Sacred glacial lake at 3,780 m on the Nathu La road (permits).",
+     "water",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Do Drul Chorten & Institute",
+     "Tibetan stupa complex and the Namgyal Institute of Tibetology.",
+     "landmark",
+     "Cultural",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Gangtok+Kanchenjunga",
+     "Kanchenjunga above Gangtok",
+     "mountain"
+    ]
+   ]
+  },
+  {
+   "name": "Kaziranga",
+   "slug": "kaziranga",
+   "state": "assam",
+   "lat": 26.5787,
+   "lng": 93.1649,
+   "alt": 81,
+   "summary": "One-horned rhino country — a UNESCO grassland river park.",
+   "description": "A 430 sq km national park on the Brahmaputra floodplains, 192 km from Guwahati airport on the NH27. Elephant-back and jeep safaris in its tall elephant-grass meadows are the draws.",
+   "experience": [
+    "Wildlife",
+    "Safari",
+    "Grasslands"
+   ],
+   "season": [
+    "Winter Safari",
+    "Summer",
+    "Monsoon Closed"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Moderate",
+   "popularity": 76,
+   "hidden": false,
+   "food": [
+    "Assam thali",
+    "Jolpan",
+    "Duck curry"
+   ],
+   "festivals": [
+    "Kaziranga Festival",
+    "Bihu"
+   ],
+   "local": [
+    "Morning jeep safari",
+    "Elephant-back safari",
+    "Kohora range watch",
+    "Kakochang waterfalls"
+   ],
+   "seasons": [
+    [
+     "Open Safari Season",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Dry grass opens; rhino most visible.",
+     [
+      "Jeep safaris",
+      "Elephant rides",
+      "Birding"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Book central safaris early."
+    ],
+    [
+     "Summer Pre-Monsoon",
+     [
+      3,
+      4,
+      5
+     ],
+     "Hot but animals at water points.",
+     [
+      "Early safaris"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon Closure",
+     [
+      7,
+      8,
+      9
+     ],
+     "Brahmaputra floods the park.",
+     [
+      "Village visits",
+      "Birding outside"
+     ],
+     "Very Low",
+     "Budget",
+     "Poor",
+     "Park shut July-Sept."
+    ]
+   ],
+   "activities": [
+    [
+     "Jeep Safari",
+     "Rhino, wild buffalo, hog deer and hornbills from open-top vehicles.",
+     "car",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Elephant-back Safari",
+     "Dawn rides closest to grazing rhino.",
+     "animal",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Kakochang Waterfall & Ruins",
+     "Falls and ruined temples just outside the park.",
+     "water",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Birding Along the Brahmaputra",
+     "Darters, herons and the Bengal florican in marginal wetlands.",
+     "bird",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Kaziranga+Rhino",
+     "One-horned rhino in tall grass",
+     "wildlife"
+    ]
+   ]
+  },
+  {
+   "name": "Majuli",
+   "slug": "majuli",
+   "state": "assam",
+   "lat": 26.95,
+   "lng": 94.1667,
+   "alt": 85,
+   "summary": "The world's largest river island, shaped by the Brahmaputra's braids.",
+   "description": "An erosion-threatened island world of neo-Vaishnavite sattras (monasteries), mask makers and weaving, reached by ferry from Jorhat (nearest airport/rail). A serene, genuinely offbeat stopover.",
+   "experience": [
+    "Offbeat",
+    "Cultural",
+    "Island Life",
+    "Handicrafts"
+   ],
+   "season": [
+    "Winter",
+    "Post-monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 50,
+   "hidden": true,
+   "food": [
+    "Pork fry",
+    "Bamboo shoot pickle",
+    "Rice beer"
+   ],
+   "festivals": [
+    "Raas Leela",
+    "Majuli heritage week"
+   ],
+   "local": [
+    "Mask making at Samaguri sattra",
+    "Sattriya dance evenings",
+    "Cycle the island lanes",
+    "Sunset over the Brahmaputra"
+   ],
+   "seasons": [
+    [
+     "Prime",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Dry and mild.",
+     [
+      "Sattra visits",
+      "Cycling",
+      "Ferries"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     "Ferries run till the afternoon."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm fields, weavers at work.",
+     [
+      "Craft trails"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Erosion and high water.",
+     [
+      "Village life"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Ferries disrupted."
+    ]
+   ],
+   "activities": [
+    [
+     "Samaguri Sattra Mask Studio",
+     "Watch paper-bamboo mask artisans rehearse Raas drama.",
+     "mask",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Cycle the Island",
+     "15 km of paddy lanes linking sattras and weaving cooperatives.",
+     "bike",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Brahmaputra Sunset Ferry",
+     "The return crossing in orange evening light.",
+     "boat",
+     "Photography",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Mishing Village Homestay",
+     "Overnight meals and weaving in stilt-house villages.",
+     "home",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Majuli+River",
+     "Brahmaputra braids around Majuli",
+     "landscape"
+    ]
+   ]
+  },
+  {
+   "name": "Shillong",
+   "slug": "shillong",
+   "state": "meghalaya",
+   "lat": 25.5788,
+   "lng": 91.8933,
+   "alt": 1525,
+   "summary": "The Scotland of the East — pine hills above the Assam plains.",
+   "description": "Meghalaya's capital, 103 km from Guwahati airport but a rain-softened green landscape of its own. Ward's Lake, the Crinoline falls viewpoints and nearby Mawphlang sacred groves make it a gentle base.",
+   "experience": [
+    "Hill Station",
+    "Pine Hills",
+    "Cultural",
+    "Weekend"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Monsoon"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Budget",
+   "popularity": 62,
+   "hidden": false,
+   "food": [
+    "Jadoh",
+    "Tungrymbai",
+    "Momos"
+   ],
+   "festivals": [
+    "Shad Suk Mynsiem",
+    "Behdienkhlam"
+   ],
+   "local": [
+    "Ward's Lake paddle",
+    "Elephant falls",
+    "Police Bazaar shopping",
+    "Mawphlang sacred grove"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Pleasant 18C-25C, green.",
+     [
+      "Lake walks",
+      "Falls",
+      "City cafes"
+     ],
+     "High",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Clear golden hills.",
+     [
+      "Sacred groves",
+      "Photography"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     "Best."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Torrential but lush.",
+     [
+      "Cafes",
+      "Falls in spate"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Live root bridges nearby."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Cool crisp mornings.",
+     [
+      "Tea gardens",
+      "Village walks"
+     ],
+     "Medium",
+     "Budget",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Ward's Lake Circuit",
+     "A wooden walkway and rowboats around a tree-lined lake.",
+     "boat",
+     "Leisure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Elephant Falls",
+     "Three-tier cascade in the pine forest below town.",
+     "water",
+     "Leisure",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Mawphlang Sacred Grove",
+     "A 1,000-year protected forest with monoliths, 25 km out.",
+     "tree-pine",
+     "Cultural",
+     [
+      9,
+      10,
+      11,
+      12,
+      3,
+      4
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Khyndailad & Police Bazaar",
+     "Night market for garlic chutney, khasi crafts and street food.",
+     "shopping",
+     "Cultural",
+     [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Shillong+Pines",
+     "Pine hills around Shillong",
+     "hill_station"
+    ]
+   ]
+  },
+  {
+   "name": "Cherrapunji",
+   "slug": "cherrapunji",
+   "state": "meghalaya",
+   "lat": 25.2971,
+   "lng": 91.5811,
+   "alt": 1485,
+   "summary": "Sohra — the world's wet capital of living root bridges and cascades.",
+   "description": "1,489 m above the plains and once the wettest place on Earth. The double-decker living root bridge at Nongriat and the valley-edge outlooks reward a short, steep descent from Sohra town.",
+   "experience": [
+    "Offbeat",
+    "Waterfall",
+    "Living Root Bridges",
+    "Trekking"
+   ],
+   "season": [
+    "Spring",
+    "Post-Monsoon",
+    "Monsoon"
+   ],
+   "months": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Budget",
+   "popularity": 60,
+   "hidden": false,
+   "food": [
+    "Pukhlein",
+    "Doikhleh",
+    "Lake dumplings"
+   ],
+   "festivals": [
+    "Nongkrem Dance"
+   ],
+   "local": [
+    "Nongriat double-decker bridge",
+    "Nohkalikai falls viewpoint",
+    "Mawsmai caves",
+    "Seven Sisters viewpoint"
+   ],
+   "seasons": [
+    [
+     "Post-Monsoon",
+     [
+      9,
+      10,
+      11
+     ],
+     "Falls at full ferocity, mud settles.",
+     [
+      "Root bridges",
+      "Viewpoints"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     "Pooled water can be cold."
+    ],
+    [
+     "Dry Season",
+     [
+      1,
+      2,
+      3,
+      4
+     ],
+     "Clear down-valley views, easier trails.",
+     [
+      "Bridge treks",
+      "Caves"
+     ],
+     "Medium",
+     "Budget",
+     "Great",
+     "Drier but falls are lighter."
+    ],
+    [
+     "Monsoon Core",
+     [
+      6,
+      7,
+      8
+     ],
+     "Extreme rain, trail mud.",
+     [
+      "Waterfall viewing"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Root bridge descent dangerous in rain."
+    ]
+   ],
+   "activities": [
+    [
+     "Double-Decker Root Bridge",
+     "A 3,500-step descent to Nongriat's two-level living bridge.",
+     "tree-pine",
+     "Adventure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Nohkalikai Falls View",
+     "India's tallest plunge waterfall falling into a churning plunge pool.",
+     "water",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Mawsmai Caves",
+     "A lit limestone cave of stagmites and bats.",
+     "tent",
+     "Adventure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Seven Sisters Point",
+     "A cliff panorama of Bangladesh plains and the plains below.",
+     "mountain",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Root+Bridge",
+     "Living root bridge at Nongriat",
+     "nature"
+    ]
+   ]
+  },
+  {
+   "name": "Tawang",
+   "slug": "tawang",
+   "state": "arunachal_pradesh",
+   "lat": 27.5869,
+   "lng": 91.8623,
+   "alt": 3048,
+   "summary": "A high-altitude Buddhist enclave crowned by India's largest monastery.",
+   "description": "A 300-km winding road from Tezpur/Guwahati towards the Bhutan-China borderlands brings you to Tawang at 3,048 m. The 17th-century monastery, Sela Pass and the Madhuri lake define a genuinely far-flung journey.",
+   "experience": [
+    "Offbeat",
+    "Monasteries",
+    "High Altitude",
+    "Road Trips"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Winter"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "budget": "Moderate",
+   "popularity": 52,
+   "hidden": true,
+   "food": [
+    "Momos",
+    "Thukpa",
+    "Butter tea"
+   ],
+   "festivals": [
+    "Torgya Festival",
+    "Losar",
+    "Sela Pass tradition"
+   ],
+   "local": [
+    "Tawang monastery courtyards",
+    "Sela pass lake",
+    "Madhuri & PT Tso lakes",
+    "Gorichen peak treks"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      5,
+      6,
+      7,
+      8
+     ],
+     "Roads open, pleasant 10C-20C.",
+     [
+      "Monasteries",
+      "Lake drives",
+      "Trekking"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     "Monsoon haze kicks in July."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10
+     ],
+     "Crystal visibility of Gorichen.",
+     [
+      "Photography",
+      "Village walks"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     "Best window."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Sela Pass snow-bound, cut off.",
+     [
+      "Tawang town life"
+     ],
+     "Very Low",
+     "Moderate",
+     "Fair",
+     "Road closures common."
+    ]
+   ],
+   "activities": [
+    [
+     "Tawang Monastery",
+     "Founded 1680-81, the largest monastery in India with a golden Buddha hall.",
+     "church",
+     "Spiritual",
+     [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sela Pass & Lake",
+     "4,170 m pass with a glassy high-altitude lake.",
+     "mountain",
+     "Adventure",
+     [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "PT Tso & Madhuri Lakes",
+     "Pristine sky-blue lakes off the monastery road.",
+     "water",
+     "Photography",
+     [
+      5,
+      6,
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Gorichen Peak Base",
+     "A glimpse of the sacred Gorichen (6,858 m) from Tawang.",
+     "mountain",
+     "Photography",
+     [
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Tawang+Monastery",
+     "Tawang monastery above the valley",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Puri",
+   "slug": "puri",
+   "state": "odisha",
+   "lat": 19.8135,
+   "lng": 85.8312,
+   "alt": 3,
+   "summary": "Seaside home of the Jagannath Temple and the sacred Blue Flag beach.",
+   "description": "One of the four dhams, on the Odisha coast 60 km from Bhubaneswar airport and rail. The Rath Yatra, the state's finest beach and the neighbouring Konark Sun Temple make a complete Odisha circuit.",
+   "experience": [
+    "Spiritual",
+    "Beach",
+    "Heritage"
+   ],
+   "season": [
+    "Winter",
+    "Summer",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 68,
+   "hidden": false,
+   "food": [
+    "Dalma",
+    "Chenna poda",
+    "Mahaprasad"
+   ],
+   "festivals": [
+    "Rath Yatra",
+    "Chandan Yatra",
+    "Konark Dance Festival"
+   ],
+   "local": [
+    "Jagannath darshan",
+    "Sunrise at the beach",
+    "Konark day trip",
+    "Chilika boat excursion"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Mild and sea-breezy.",
+     [
+      "Beach",
+      "Temple",
+      "Konark"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Rath Yatra in June-July."
+    ],
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Hot, humid.",
+     [
+      "Dawn beach",
+      "Temple mornings"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8,
+      9
+     ],
+     "Heavy sea, rain.",
+     [
+      "Seafood shacks",
+      "Chilika"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Beach swimming unsafe in swell."
+    ]
+   ],
+   "activities": [
+    [
+     "Jagannath Temple",
+     "The 12th-century shrine and dining hall behind the sacred precinct.",
+     "church",
+     "Spiritual",
+     [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear",
+      "any"
+     ]
+    ],
+    [
+     "Sunrise at Puri Beach",
+     "Blue Flag beach with rolling morning surf.",
+     "sunrise",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Konark Sun Temple",
+     "A 13th-century chariot-temple of the sun, a World Heritage jewel.",
+     "landmark",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Chilika Lake Cruise",
+     "Asia's largest brackish lagoon with Irrawaddy dolphins.",
+     "boat",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Puri+Beach",
+     "Puri beach at sunrise",
+     "beach"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Konark+Sun+Temple",
+     "Konark sun temple wheel",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Khajuraho",
+   "slug": "khajuraho",
+   "state": "madhya_pradesh",
+   "lat": 24.8318,
+   "lng": 79.9199,
+   "alt": 282,
+   "summary": "The Chandela temple ensemble — India's greatest sculptural gallery.",
+   "description": "A UNESCO group of Nagara-style temples built 950-1050 CE, served obliquely by Chhatarpur rail and Khajuraho airport (limited flights). The Western Group's dance figures and the sound-and-light show are unmissable.",
+   "experience": [
+    "Heritage",
+    "Architecture",
+    "Photography"
+   ],
+   "season": [
+    "Winter",
+    "Post-Monsoon",
+    "Summer"
+   ],
+   "months": [
+    1,
+    2,
+    11,
+    12
+   ],
+   "budget": "Budget",
+   "popularity": 72,
+   "hidden": false,
+   "food": [
+    "Bhutte ka kees",
+    "Dal bafla",
+    "Chhena"
+   ],
+   "festivals": [
+    "Khajuraho Dance Festival",
+    "Mahashivratri"
+   ],
+   "local": [
+    "Western group guided tour",
+    "Dawn photography at Lakshmana",
+    "Dance festival in Feb/March",
+    "Panna tiger reserve detour"
+   ],
+   "seasons": [
+    [
+     "Winter Peak",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear cool days for temple touring.",
+     [
+      "Temple walks",
+      "Dance festival",
+      "Photography"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Feb dance festival is the highlight."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm, thinner crowds.",
+     [
+      "Temple walks",
+      "Chhatarpur markets"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Rain, mould on stone.",
+     [
+      "Interiors",
+      "Museum"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Western Group Temples",
+     "The sculptural perfection of Kandariya Mahadeo under dawn or dusk light.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sound & Light Show",
+     "Narration of temple lore projected over the western group at night.",
+     "music",
+     "Cultural",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Khajuraho Dance Festival",
+     "Classical Bharatanatyam and Kathak against the temple backdrop.",
+     "music",
+     "Cultural",
+     [
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Raneh Falls & Ken River",
+     "A granite-canyon gorge 18 km out with stepping-stone cascades.",
+     "water",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Khajuraho+Temples",
+     "Kandariya Mahadeo temple",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Pachmarhi",
+   "slug": "pachmarhi",
+   "state": "madhya_pradesh",
+   "lat": 22.4677,
+   "lng": 78.4337,
+   "alt": 1067,
+   "summary": "The satpura plateau's emerald canopy — MP's only hill station.",
+   "description": "Dense forest, honeycomb caves and sandstone stacks set a thousand metres up, 210 km from Jabalpur rail. Bee Falls, Jatashankar caves and the sunset point of Dhoopgarh make it a quiet 2-3 day retreat.",
+   "experience": [
+    "Hill Station",
+    "Forest",
+    "Caves",
+    "Offbeat"
+   ],
+   "season": [
+    "Winter",
+    "Post-monsoon",
+    "Summer"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 48,
+   "hidden": true,
+   "food": [
+    "Bhopali",
+    "Boondi",
+    "Forest honey"
+   ],
+   "festivals": [
+    "Pachmarhi Utsav",
+    "Shivratri caves fair"
+   ],
+   "local": [
+    "Dhoopgarh sunset",
+    "Bee falls",
+    "Jatashankar cave",
+    "Pandava caves' guides"
+   ],
+   "seasons": [
+    [
+     "Dry Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Crisp air, clear views.",
+     [
+      "Waterfalls",
+      "Viewpoints",
+      "Cave walks"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     "Forest gates hours limited."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8,
+      9
+     ],
+     "Drenched satpura greenery.",
+     [
+      "Bee falls in spate",
+      "Misty trails"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     "Waterlogged paths."
+    ],
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Hot but greener shade.",
+     [
+      "Morning viewpoints"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Dhoopgarh Sunset",
+     "The highest point of the Satpuras with layered ridge views.",
+     "sunrise",
+     "Photography",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Bee Falls",
+     "A chute of water into a ferns-laced pool.",
+     "water",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      7,
+      8
+     ],
+     false,
+     [
+      "clear",
+      "rainy"
+     ]
+    ],
+    [
+     "Jatashankar Cave",
+     "A mythology-steeped cave beneath overhanging rock.",
+     "tent",
+     "Spiritual",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Pandava Caves & Handi Khoh",
+     "Rock-cut shelters and a two-sided gorge viewpoint.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Pachmarhi+Satpura",
+     "Forest ridge at Pachmarhi",
+     "hill_station"
+    ]
+   ]
+  },
+  {
+   "name": "Bhimbetka",
+   "slug": "bhimbetka",
+   "state": "madhya_pradesh",
+   "lat": 22.9403,
+   "lng": 77.6128,
+   "alt": 428,
+   "summary": "A cave gallery of some of humanity's oldest rock paintings.",
+   "description": "Over 700 rock shelters with paintings that span 100,000 years of human art, 45 km from Bhopal air/rail. A half-day site visit with the famous 'boar hunt' panel — a quiet, extraordinary hidden gem.",
+   "experience": [
+    "Heritage",
+    "Prehistoric",
+    "Offbeat",
+    "Photography"
+   ],
+   "season": [
+    "Winter",
+    "Post-monsoon",
+    "Monsoon"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 46,
+   "hidden": true,
+   "food": [
+    "Bhopali",
+    "Shami kebabs"
+   ],
+   "festivals": [
+    "International Rock Art Festival"
+   ],
+   "local": [
+    "Audio-guided tribal tour",
+    "Auditorium cave trace",
+    "Bhopal museums tie-in"
+   ],
+   "seasons": [
+    [
+     "Winter Prime",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     "Cool and clear for shelter walks.",
+     [
+      "Rock art tour",
+      "Audio guide"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     "Open sunrise to sunset minus Mondays."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10
+     ],
+     "Green surrounds post-monsoon.",
+     [
+      "Photography"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Rain keeps shelters slippery.",
+     [
+      "Interior shelters"
+     ],
+     "Very Low",
+     "Budget",
+     "Fair",
+     "Shells out into the rain."
+    ]
+   ],
+   "activities": [
+    [
+     "Guided Rock Art Walk",
+     "Drinker-bull and boar-hunt panels across the Buffer Zone shelters.",
+     "palmtree",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Auditorium Rock Shelter",
+     "The largest shelter, named for its acoustically rich bell chamber.",
+     "tent",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Bhopal Museum Tie-in",
+     "See excavated tools and the ancestry of the paintings in Bhopal.",
+     "landmark",
+     "Cultural",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Bhimbetka+Rock+Art",
+     "Rock shelter painting gallery",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Ahmedabad",
+   "slug": "ahmedabad",
+   "state": "gujarat",
+   "lat": 23.0225,
+   "lng": 72.5714,
+   "alt": 53,
+   "summary": "Gandhi's Sabarmati city — a World Heritage walled heart.",
+   "description": "The first UNESCO-listed Indian city, on the Sabarmati with a modern metro and full air/rail connectivity. Pol houses, the Sabarmati Ashram and street food anchor the experience.",
+   "experience": [
+    "Heritage",
+    "Architecture",
+    "Culinary",
+    "Culture"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 66,
+   "hidden": false,
+   "food": [
+    "Khaman",
+    "Fafda jalebi",
+    "Undhiyu"
+   ],
+   "festivals": [
+    "Rann Utsav (Kutch)",
+    "Uttarayan kite festival"
+   ],
+   "local": [
+    "Old city pol walk",
+    "Sabarmati Ashram",
+    "Manek Chowk night food",
+    "Adalaj stepwell detour"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear sunny days, bracing nights.",
+     [
+      "Pol walks",
+      "Ashram",
+      "Street food"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Kite festival Jan 14."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Pleasant dry heat.",
+     [
+      "Museum hours"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Warm, occasional showers.",
+     [
+      "Heritage interiors"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Old City Pol House Walk",
+     "Latitude of carved wooden havelis and bird feeders in the walled quarter.",
+     "building",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sabarmati Ashram",
+     "Gandhi's 1917 riverside base and the Dandi march's starting point.",
+     "leaf",
+     "Heritage",
+     [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Manek Chowk Food Night",
+     "Jewellers by day; hive of egg and jalebi stalls by night.",
+     "utensils",
+     "Culinary",
+     [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Adalaj Stepwell",
+     "Intricate ornate well five storeys deep, 20 km north.",
+     "water",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Ahmedabad+Adalaj",
+     "Adalaj stepwell",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Rann of Kutch",
+   "slug": "rann_of_kutch",
+   "state": "gujarat",
+   "lat": 23.7333,
+   "lng": 69.8333,
+   "alt": 2,
+   "summary": "The white salt desert — India's photogenic winter moonland.",
+   "description": "A seasonal salt marsh of the Great Rann, 90 km from Bhuj airport via Dholavira/Mandvi roads. The Rann Utsav (Nov-Feb) brings tents, crafts and full-moon rituals to the white desert.",
+   "experience": [
+    "Desert",
+    "Festival",
+    "Photography",
+    "Crafts"
+   ],
+   "season": [
+    "Winter",
+    "Spring"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Moderate",
+   "popularity": 70,
+   "hidden": false,
+   "food": [
+    "Kutchi dabeli",
+    "Bhuj khari",
+    "Sindhi kadhi"
+   ],
+   "festivals": [
+    "Rann Utsav",
+    "Banni embroidery melas"
+   ],
+   "local": [
+    "White-camel safari",
+    "Full-moon mirror shots",
+    "Kala Dungar viewpoint",
+    "Bhuj bandhni bazaars"
+   ],
+   "seasons": [
+    [
+     "Utsav Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Crisp desert nights, dry salt.",
+     [
+      "Camel rides",
+      "Starlight camps",
+      "Craft tents"
+     ],
+     "Very High",
+     "Moderate",
+     "Excellent",
+     "Full-moon weekends booked out."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Heat builds; desert still white.",
+     [
+      "Day photography"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon No-Go",
+     [
+      7,
+      8,
+      9
+     ],
+     "Naan floods; road submerged.",
+     [
+      "Film on Kutch interiors"
+     ],
+     "Very Low",
+     "Budget",
+     "Poor",
+     "Avoid entirely."
+    ]
+   ],
+   "activities": [
+    [
+     "White Desert Sunset",
+     "Salt pan magenta light and mirror photography at dusk.",
+     "sunrise",
+     "Photography",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Kala Dungar Viewpoint",
+     "The Rann's only hill with a 360-degree white horizon.",
+     "mountain",
+     "Photography",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Banni Craft Villages",
+     "Embroidery, bell-making and leatherwork hamlets of the Banni belt.",
+     "hand",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "White Camel Safari",
+     "A species of albino camel trotting the dry salt crust.",
+     "camel",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Rann+of+Kutch",
+     "White salt desert at sunset",
+     "desert"
+    ]
+   ]
+  },
+  {
+   "name": "Gir National Park",
+   "slug": "gir",
+   "state": "gujarat",
+   "lat": 21.1241,
+   "lng": 70.8233,
+   "alt": 159,
+   "summary": "The last wild home of the Asiatic lion.",
+   "description": "A teak flat-forest park 60 km from Junagadh and 350 km from Rajkot airport. Lion safaris are booked online through Sasan Gir; jeeps comb the dry teak for the park's 600+ lions and a full cat graveyard of prey.",
+   "experience": [
+    "Wildlife",
+    "Lion Safari",
+    "Forest"
+   ],
+   "season": [
+    "Summer",
+    "Winter Safari"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Moderate",
+   "popularity": 74,
+   "hidden": false,
+   "food": [
+    "Kutchi thali",
+    "Surati undhiyu"
+   ],
+   "festivals": [
+    "Girnar fair (Junagadh)"
+   ],
+   "local": [
+    "Daybreak lion safari",
+    "Sasan Gir crocodile pool",
+    "Kankai Mata temple plateau",
+    "Girnar temple climb"
+   ],
+   "seasons": [
+    [
+     "Prime Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Cool clear visibility in open teak.",
+     [
+      "Jeep safaris",
+      "Birding"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "Book lion-safari jeeps on the official portal."
+    ],
+    [
+     "Hot Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Lions gather at waterholes.",
+     [
+      "Late safaris at water"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     "Heat is brutal; use closed-jacket safari."
+    ],
+    [
+     "Monsoon Closed",
+     [
+      7,
+      8,
+      9
+     ],
+     "Park shut for breeding.",
+     [
+      "Buffer-zone walks"
+     ],
+     "Very Low",
+     "Budget",
+     "Poor",
+     "Closed mid-June to mid-Oct."
+    ]
+   ],
+   "activities": [
+    [
+     "Asiatic Lion Safari",
+     "Gir's raison d'etre — licensed jeep or canter with trackers.",
+     "animal",
+     "Wildlife",
+     [
+      12,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Crocodile Center & Sasan",
+     "Observation point teeming with muggers near the HQ village.",
+     "fish",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Kamleshwar Dam Zone",
+     "Photographic pastures of open water in the regulated sanctuary.",
+     "water",
+     "Wildlife",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Girnar Hill Excursion",
+     "Mountain temple climb and Jain derivation views near Junagadh.",
+     "mountain",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Gir+Lion",
+     "Asiatic lion in dry teak",
+     "wildlife"
+    ]
+   ]
+  },
+  {
+   "name": "Mumbai",
+   "slug": "mumbai",
+   "state": "maharashtra",
+   "lat": 19.076,
+   "lng": 72.8777,
+   "alt": 6,
+   "summary": "The city that never sleeps — gothic arches, sea-drives and street food.",
+   "description": "India's financial and film capital on the Arabian Sea, with its own dense airport web and full rail. Gateway of India, Marine Drive, the CSMT gothic quarter and king-prawn fry define it.",
+   "experience": [
+    "City Life",
+    "Heritage",
+    "Culinary",
+    "Nightlife"
+   ],
+   "season": [
+    "Winter",
+    "Monsoon",
+    "Post-monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    9,
+    10
+   ],
+   "budget": "Moderate",
+   "popularity": 84,
+   "hidden": false,
+   "food": [
+    "Vada pav",
+    "Pav bhaji",
+    "Bombay duck fry"
+   ],
+   "festivals": [
+    "Ganesh Chaturthi",
+    "Kala Ghoda Arts Festival"
+   ],
+   "local": [
+    "Gateway to Colaba walk",
+    "Ferry to Elephanta caves",
+    "Marine Drive sunset",
+    "CSMT by night"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Pleasant sea breeze, clear.",
+     [
+      "City walks",
+      "Island ferries",
+      "Night drives"
+     ],
+     "High",
+     "Moderate",
+     "Great",
+     "Best big-city window."
+    ],
+    [
+     "Post-Monsoon",
+     [
+      9,
+      10
+     ],
+     "Green and mild.",
+     [
+      "Kala Ghoda",
+      "Beach morning"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      6,
+      7,
+      8
+     ],
+     "Sea lanes and showers.",
+     [
+      "Coffee marches, museum days"
+     ],
+     "Medium",
+     "Moderate",
+     "Fair",
+     "High tide hustle."
+    ]
+   ],
+   "activities": [
+    [
+     "Gateway of India & Colaba",
+     "Basalt triumphal arch built 1924, hub of harbour life.",
+     "landmark",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Elephanta Island Caves",
+     "A ferry to 5th-7th-century Shiva rock-cut caves.",
+     "boat",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Marine Drive at Dusk",
+     "The queen's necklace neon sweep along the bay.",
+     "sunrise",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Bade Miya & Bhendi Bazaar",
+     "Legendary late-night kebab and biryani lanes.",
+     "utensils",
+     "Culinary",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Gateway+of+India",
+     "Gateway of India waterfront",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Lonavala",
+   "slug": "lonavala",
+   "state": "maharashtra",
+   "lat": 18.7551,
+   "lng": 73.4039,
+   "alt": 622,
+   "summary": "The Sahyadri's weekend monsoon chai-stop — forts, lakes and caves.",
+   "description": "A plateau-side station between Mumbai and Pune with a tiny airstrip hub via Pune (65 km). Karla-Ellora caves, Lion's Point and monsoon slips of the Western Ghats at 620 m keep it eternally popular.",
+   "experience": [
+    "Monsoon",
+    "Hill Station",
+    "Weekend",
+    "Caves"
+   ],
+   "season": [
+    "Monsoon",
+    "Winter",
+    "Summer"
+   ],
+   "months": [
+    7,
+    8,
+    9,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 58,
+   "hidden": false,
+   "food": [
+    "Chikki",
+    "Mango mastani",
+    "Vada pav"
+   ],
+   "festivals": [
+    "Bombay Chikoo festival",
+    "Ganesh"
+   ],
+   "local": [
+    "Karla Caves early morn",
+    "Bhushi dam splash",
+    "Tiger's leap viewpoint",
+    "Lonavala chikki run"
+   ],
+   "seasons": [
+    [
+     "Monsoon Prime",
+     [
+      7,
+      8,
+      9
+     ],
+     "Waterfalls crash the escarpment.",
+     [
+      "Dam splash",
+      "Mist viewpoints"
+     ],
+     "Very High",
+     "Budget",
+     "Great",
+     "Weekend traffic heavy."
+    ],
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Crisp clear Punjab-like skies.",
+     [
+      "Fort hikes",
+      "Pune day trips"
+     ],
+     "Medium",
+     "Budget",
+     "Great",
+     ""
+    ],
+    [
+     "Summer",
+     [
+      3,
+      4,
+      5
+     ],
+     "Dry and hot.",
+     [
+      "Caves",
+      "Pool resorts"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Bhushi Dam Waterfall",
+     "Gushing stair-runs of the monsoon wall.",
+     "water",
+     "Leisure",
+     [
+      7,
+      8,
+      9
+     ],
+     false,
+     [
+      "rainy",
+      "overcast"
+     ]
+    ],
+    [
+     "Karla & Bhaja Caves",
+     "Ancient Brahmanical caves with granite prayer-hall frontage.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Tiger's Leap & Lion's Point",
+     "Scalloped viewpoints over the Western Ghats escarpment.",
+     "mountain",
+     "Photography",
+     [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      1
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Duke's Nose Trek",
+     "A bluff-shaped ledge climb above the old Mumbai-Pune road.",
+     "mountain",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Lonavala+Monsoon",
+     "Western ghats escarpment in rain",
+     "monsoon"
+    ]
+   ]
+  },
+  {
+   "name": "Goa",
+   "slug": "goa",
+   "state": "goa",
+   "lat": 15.4909,
+   "lng": 73.8278,
+   "alt": 4,
+   "summary": "India's beach classic — 100 km of coast, churches and cashew sunsets.",
+   "description": "A land of coconut palms and Portuguese churches between the Arabian Sea and the Western Ghats, reached through its own international airport, Madgaon rail and the Konkan route. Beach shacks, night markets and easy living define it.",
+   "experience": [
+    "Beach",
+    "Nightlife",
+    "Portuguese Heritage",
+    "Water Sports"
+   ],
+   "season": [
+    "Winter Peak",
+    "Shoulder",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    10
+   ],
+   "budget": "Moderate",
+   "popularity": 88,
+   "hidden": false,
+   "food": [
+    "Fish curry rice",
+    "Xacuti",
+    "Feni"
+   ],
+   "festivals": [
+    "Sunburn",
+    "Carnaval",
+    "Shigmo"
+   ],
+   "local": [
+    "Vagator & Anjuna sunsets",
+    "Old Goa churches",
+    "Dudhsagar falls train",
+    "North-south beach hop"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Sunny dry days, crisp evenings.",
+     [
+      "Beaches",
+      "Water sports",
+      "Parties"
+     ],
+     "Very High",
+     "Moderate",
+     "Excellent",
+     "Holiday pricing."
+    ],
+    [
+     "Shoulder",
+     [
+      3,
+      4,
+      10
+     ],
+     "Warm, calmer, cheaper.",
+     [
+      "Shacks",
+      "Sunset cruises"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     "Best value."
+    ],
+    [
+     "Monsoon",
+     [
+      6,
+      7,
+      8
+     ],
+     "Green canopy, beaches roar.",
+     [
+      "Old Goa",
+      "Rainy cafes"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Shacks closed; falls awesome."
+    ]
+   ],
+   "activities": [
+    [
+     "Anjuna & Vagator Sunsets",
+     "Red-cliff views and flea markets behind the beach.",
+     "sunrise",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Old Goa Heritage Circuit",
+     "Basilica of Bom Jesus and whitewashed cathedral complexes.",
+     "church",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Dudhsagar Waterfall",
+     "A four-tier cascade reachable by train crossing over the gorge.",
+     "water",
+     "Adventure",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Water Sports at Calangute",
+     "Banana rides, parasailing and jet-ski on the state's busiest beach.",
+     "waves",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Goa+Beach",
+     "Goa coastline at sunset",
+     "beach"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Old+Goa",
+     "Basilica of Bom Jesus",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Mysuru",
+   "slug": "mysuru",
+   "state": "karnataka",
+   "lat": 12.2958,
+   "lng": 76.6394,
+   "alt": 770,
+   "summary": "The sandalwood city of palaces and puja-lit streets.",
+   "description": "Two hours from Bengaluru airport/rail on the NH275, Mysuru's Amber-lit palace, Devaraja market and the Chamundi hill view make a courtly classic. The Dussehra festival is its crown.",
+   "experience": [
+    "Heritage",
+    "Palaces",
+    "Festivals",
+    "Culture"
+   ],
+   "season": [
+    "Winter",
+    "Dussehra",
+    "Spring"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 70,
+   "hidden": false,
+   "food": [
+    "Mysore masala dosa",
+    "Obbattu",
+    "Mysore pak"
+   ],
+   "festivals": [
+    "Mysuru Dasara",
+    "Tithi of the fabric"
+   ],
+   "local": [
+    "Palace sound-light show",
+    "Chamundi hill steps",
+    "Srirangapatna detour",
+    "Dussehra procession (Oct)"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Mild, palace-truth days.",
+     [
+      "Palace",
+      "Chamundi",
+      "Bazaars"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Dussehra Fortnight",
+     [
+      9,
+      10
+     ],
+     "Jumbo procession and night illumination.",
+     [
+      "Procession",
+      "Crafts fair"
+     ],
+     "Very High",
+     "Moderate",
+     "Good",
+     "Book ahead."
+    ],
+    [
+     "Summer",
+     [
+      3,
+      4,
+      5
+     ],
+     "Hot dry.",
+     [
+      "Museums",
+      "Brindavan evening"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Mysore Palace",
+     "The Amba Vilas interiors lit on Sundays and during Dasara.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Chamundi Hill Temple",
+     "Thousands of steps and a giant Nandi above the city.",
+     "church",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Devaraja Market",
+     "Garlands, turmeric heaps and spice mountains in the heart of town.",
+     "shopping",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Brindavan Gardens",
+     "Water-dance fountain show at Krishnaraja Sagar dam, 20 km out.",
+     "water",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Mysuru+Palace",
+     "Mysore palace at dusk",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Hampi",
+   "slug": "hampi",
+   "state": "karnataka",
+   "lat": 15.335,
+   "lng": 76.46,
+   "alt": 467,
+   "summary": "The stone-boulder capital of the Vijayanagara empire.",
+   "description": "A World Heritage landscape of granite boulders and temple masonry on the Tungabhadra, 350 km from Bengaluru and 12 km from Hospet rail. Virupaksha temple, the boulder hills and Coracle rides define it.",
+   "experience": [
+    "Heritage",
+    "Ruins",
+    "Boulder Country",
+    "Spiritual"
+   ],
+   "season": [
+    "Winter",
+    "Post-Monsoon",
+    "Summer"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 74,
+   "hidden": false,
+   "food": [
+    "Bisi bele bath",
+    "Hampi street banana dosa",
+    "Tender coconut"
+   ],
+   "festivals": [
+    "Hampi Utsav",
+    "Coracle regatta"
+   ],
+   "local": [
+    "Coracle crossing to Anegundi",
+    "Matanga hill sunset",
+    "Golden Chariot sunrise",
+    "Vijaya Vittala court"
+   ],
+   "seasons": [
+    [
+     "Prime Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Clear cool boulder light.",
+     [
+      "Temple circuit",
+      "Hill sunsets",
+      "Coracle"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Carry water; site is vast."
+    ],
+    [
+     "Post-Monsoon",
+     [
+      9,
+      10
+     ],
+     "Green against grey granite.",
+     [
+      "Photography",
+      "Lotus tanks"
+     ],
+     "Low",
+     "Budget",
+     "Great",
+     ""
+    ],
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Boulder heat brutal.",
+     [
+      "Sunrise only"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Vijaya Vittala Temple",
+     "The stone chariot and the 56-pillar musical hall.",
+     "landmark",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Virupaksha Temple & Bazaar",
+     "The city's working temple enclosing daily puja at its gate.",
+     "church",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Matanga Hill Sunset",
+     "Scramble for the full boulder-field and temple panorama.",
+     "sunrise",
+     "Photography",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Coracle on the Tungabhadra",
+     "Round woven-bamboo ferries to the far bank.",
+     "boat",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Hampi+Stone+Chariot",
+     "Stone chariot at Vijaya Vittala",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Coorg",
+   "slug": "coorg",
+   "state": "karnataka",
+   "lat": 12.4244,
+   "lng": 75.7382,
+   "alt": 1170,
+   "summary": "Madikeri — Karnataka's coffee country of misty estates and waterfalls.",
+   "description": "A coffee-and-pepper Western Ghats hill country 250 km from Bengaluru, entered via Madikeri town. Abbey falls, Raja's seat and plantation stays in the emerald canopy make it a classic monsoon-lovers' retreat.",
+   "experience": [
+    "Coffee Country",
+    "Hill Station",
+    "Monsoon",
+    "Plantations"
+   ],
+   "season": [
+    "Monsoon",
+    "Winter",
+    "Autumn"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    7,
+    8,
+    9
+   ],
+   "budget": "Moderate",
+   "popularity": 62,
+   "hidden": false,
+   "food": [
+    "Pandi curry",
+    "Kadambuttu",
+    "Coffee"
+   ],
+   "festivals": [
+    "Kavery Sankramana",
+    "Madikeri Dasara"
+   ],
+   "local": [
+    "Abbey falls monsoon",
+    "Plantation guided walk",
+    "Raja's seat sunset",
+    "Talacauvery origin spring"
+   ],
+   "seasons": [
+    [
+     "Monsoon Glory",
+     [
+      7,
+      8,
+      9
+     ],
+     "Falls at full strength.",
+     [
+      "Abbey falls",
+      "Mist drives"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     "Best for greenery."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Crisp clear plantation air.",
+     [
+      "Estate walks",
+      "Coffee tastings"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Harvest season."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4,
+      5
+     ],
+     "Dry, light.",
+     [
+      "Viewpoints",
+      "National parks"
+     ],
+     "Medium",
+     "Moderate",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Abbey Falls",
+     "Whitewater tumbling through banana-green cliffs.",
+     "water",
+     "Leisure",
+     [
+      7,
+      8,
+      9,
+      10
+     ],
+     false,
+     [
+      "rainy",
+      "clear"
+     ]
+    ],
+    [
+     "Coffee Plantation Walk",
+     "Arabica fields, pepper creepers and a shade canopy tour.",
+     "leaf",
+     "Culinary",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Raja's Seat Sunset",
+     "A colonnaded viewpoint over the river valley.",
+     "sunrise",
+     "Photography",
+     [
+      1,
+      12,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Talacauvery & Bhagamandala",
+     "The Kaveri's origin shrine and the triveni confluence.",
+     "water",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Coorg+Coffee",
+     "Coffee estate at Coorg",
+     "coffee"
+    ]
+   ]
+  },
+  {
+   "name": "Gokarna",
+   "slug": "gokarna",
+   "state": "karnataka",
+   "lat": 14.5488,
+   "lng": 74.3178,
+   "alt": 15,
+   "summary": "A pilgrim town of holy coves and India's strongest breezes.",
+   "description": "A temple town on the Karnataka coast 150 km from Mangalore/air-rail. Om, Kudle and Half Moon beaches behind the monkey-hills make a rough-roads classic of the hippie route north.",
+   "experience": [
+    "Beach",
+    "Offbeat",
+    "Trekking",
+    "Spiritual"
+   ],
+   "season": [
+    "Winter",
+    "Shoulder",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 56,
+   "hidden": false,
+   "food": [
+    "Tandoori",
+    "Sunset fish",
+    "Banana pancakes"
+   ],
+   "festivals": [
+    "Shiva Rathotsava",
+    "Mahabaleshwar fair"
+   ],
+   "local": [
+    "Om beach sunrise",
+    "Cliff coast to Half Moon",
+    "Maha Ganapati puja",
+    "Beach bonfires"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Golden dry dunes.",
+     [
+      "Beach cafés",
+      "Cove hikes"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Cramped in peak tents."
+    ],
+    [
+     "Shoulder",
+     [
+      3,
+      4,
+      10
+     ],
+     "Mild, quiet.",
+     [
+      "Bonfires",
+      "Yoga"
+     ],
+     "Low",
+     "Budget",
+     "Great",
+     "Best value."
+    ],
+    [
+     "Monsoon",
+     [
+      6,
+      7,
+      8
+     ],
+     "Sea rises; some beaches close.",
+     [
+      "Temple town",
+      "Rain walks"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Swimming unsafe."
+    ]
+   ],
+   "activities": [
+    [
+     "Om Beach Panorama",
+     "A double-cove in the shape of the sacred syllable.",
+     "sunrise",
+     "Photography",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Cliff Coast Loop",
+     "Trail over the headland to Kudle, Half Moon & Paradise.",
+     "walk",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Mahabaleshwar Temple",
+     "Atma-linga shrine where pilgrims break the beach day.",
+     "church",
+     "Spiritual",
+     [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Beach Bonfire Nights",
+     "Drum circles and cliff obelisk sunsets by the coves.",
+     "music",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Gokarna+Om+Beach",
+     "Om beach double cove",
+     "beach"
+    ]
+   ]
+  },
+  {
+   "name": "Munnar",
+   "slug": "munnar",
+   "state": "kerala",
+   "lat": 10.0889,
+   "lng": 77.0595,
+   "alt": 1700,
+   "summary": "The Western Ghats' tea-country basin of rolling emerald slopes.",
+   "description": "Kerala's most famous hill station at 1,700 m, 108 km from Kochi airport. Tea museum, Eravikulam and top-station viewpoints make the loop while the monsoons bring the mists that folk songs celebrate.",
+   "experience": [
+    "Tea",
+    "Hill Station",
+    "Monsoon",
+    "Wildlife"
+   ],
+   "season": [
+    "Monsoon",
+    "Winter",
+    "Autumn"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    7,
+    8,
+    9
+   ],
+   "budget": "Moderate",
+   "popularity": 82,
+   "hidden": false,
+   "food": [
+    "Kerala sadya",
+    "Tea estate snacks",
+    "Puttu kadala"
+   ],
+   "festivals": [
+    "Onam",
+    "Attukal Pongala"
+   ],
+   "local": [
+    "Tea factory tour",
+    "Eravikulam lookout",
+    "Mattupetty reservoir",
+    "Top Station drive"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Crisp 8C-20C, clear ridges.",
+     [
+      "Tea estates",
+      "Eravikulam",
+      "Boating"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Best."
+    ],
+    [
+     "Monsoon Mists",
+     [
+      7,
+      8,
+      9
+     ],
+     "Weather wraps the slopes.",
+     [
+      "Tea houses",
+      "Waterfalls"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     "Landslides rare but check roads."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Muck clears for views.",
+     [
+      "Photography",
+      "Trekking"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Tea Museum & Factory",
+     "Withering, rolling and CTC machinery in a working estate.",
+     "leaf",
+     "Culinary",
+     [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Eravikulam National Park",
+     "The nilgiri tahr's sanctuary and Rajamala shola walks.",
+     "animal",
+     "Wildlife",
+     [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Mattupetty & Kundala",
+     "Boating and the dam loop amid pine plantations.",
+     "boat",
+     "Leisure",
+     [
+      1,
+      2,
+      3,
+      4,
+      9,
+      10,
+      11,
+      12
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Top Station Viewpoint",
+     "The Western Ghats staircase at the Tamil Nadu border.",
+     "mountain",
+     "Photography",
+     [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Munnar+Tea",
+     "Tea slope at Munnar",
+     "tea"
+    ],
+    [
+     "https://placehold.co/900x600/334155/e2e8f0?text=Munnar+Mist",
+     "Misty Munnar shola",
+     "hill_station"
+    ]
+   ]
+  },
+  {
+   "name": "Kochi",
+   "slug": "kochi",
+   "state": "kerala",
+   "lat": 9.9312,
+   "lng": 76.2673,
+   "alt": 2,
+   "summary": "Fort Kochi — a spice-soaked colonial port of Chinese nets and Dutch lanes.",
+   "description": "Kerala's Arabian-Sea gateway with a bustling international airport and rail port. The Jewish quarter, dutch warehouses, Chinese fishing nets and Kathakali evenings stitch centuries of trade into one walkable quarter.",
+   "experience": [
+    "Heritage",
+    "Port City",
+    "Culinary",
+    "Backwaters"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Moderate",
+   "popularity": 76,
+   "hidden": false,
+   "food": [
+    "Karimeen pollichathu",
+    "Appam stew",
+    "Copper-wire tea"
+   ],
+   "festivals": [
+    "Fort Kochi art fest",
+    "Indus-style Xmas"
+   ],
+   "local": [
+    "Chinese nets at dawn",
+    "Jewish synagogues",
+    "Kathakali evening",
+    "Marine drive boat jetty"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Sea-breeze warm, dry.",
+     [
+      "Heritage walks",
+      "Island ferries"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Xmas lights lovely."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm but fine.",
+     [
+      "Cafes",
+      "Art galleries"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      6,
+      7,
+      8
+     ],
+     "Rainy port days.",
+     [
+      "Museum & theatre"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     "Nets hauled often."
+    ]
+   ],
+   "activities": [
+    [
+     "Chinese Fishing Nets",
+     "Teak-and-stone mechanism still hauling on the Fort Kochi shore.",
+     "fish",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Jewish Quarter & Synagogue",
+     "The Paradesi synagogue's blue Cantonese tiles and whitewashed lanes.",
+     "church",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Kathakali Theatre Evenings",
+     "Full make-up demonstration and classical performance in Fort Kochi.",
+     "music",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Island Ferry to Vypeen",
+     "The working harbour crossing and ghat-side heat.",
+     "boat",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Fort+Kochi+Nets",
+     "Chinese fishing nets at Kochi",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Alleppey",
+   "slug": "alleppey",
+   "state": "kerala",
+   "lat": 9.4981,
+   "lng": 76.3388,
+   "alt": 3,
+   "summary": "The Venice of the East — Kerala's backwater heart.",
+   "description": "A canal-crossed town 53 km south of Kochi airport which summons the palm-shadowed backwater runs. A houseboat night, the Punnamada lake and the Alappuzha beach make the quintessential Kerala postcard.",
+   "experience": [
+    "Backwaters",
+    "Houseboat",
+    "Monsoon",
+    "Beach"
+   ],
+   "season": [
+    "Winter",
+    "Monsoon",
+    "Post-monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    7,
+    8,
+    9
+   ],
+   "budget": "Moderate",
+   "popularity": 80,
+   "hidden": false,
+   "food": [
+    "Sadya",
+    "Karimeen",
+    "Tender coconut"
+   ],
+   "festivals": [
+    "Nehru Trophy boat race",
+    "Onam"
+   ],
+   "local": [
+    "Houseboat overnight",
+    "Early canal cycle",
+    "Punnamada boat races",
+    "Alappuzha lighthouse"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Dry sunny backwater days.",
+     [
+      "Houseboats",
+      "Canal rides"
+     ],
+     "High",
+     "Moderate",
+     "Excellent",
+     "Book boats early."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8,
+      9
+     ],
+     "Rains feed the waters, quiet.",
+     [
+      "Green canal cruises"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     "Boat prices dip."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10
+     ],
+     "Nice between rains.",
+     [
+      "Houseboat",
+      "Village walks"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Overnight Houseboat",
+     "Kettuvallam rice-barge on a palm-laced inland route.",
+     "boat",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "rainy"
+     ]
+    ],
+    [
+     "Punnamada Canal Rides",
+     "Silent country boats through village waterways.",
+     "boat",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Nehru Trophy Boat Race",
+     "The snake-boat regatta on the second August Saturday.",
+     "waves",
+     "Cultural",
+     [
+      8
+     ],
+     false,
+     [
+      "rainy",
+      "clear"
+     ]
+    ],
+    [
+     "Alappuzha Beach & Lighthouse",
+     "The shore end of the backwater country.",
+     "sunrise",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Alleppey+Backwaters",
+     "Houseboat on the backwaters",
+     "backwaters"
+    ]
+   ]
+  },
+  {
+   "name": "Varkala",
+   "slug": "varkala",
+   "state": "kerala",
+   "lat": 8.7338,
+   "lng": 76.708,
+   "alt": 60,
+   "summary": "Kerala's cliffs-and-coves beach town of sunset cafés.",
+   "description": "A mineral-red cliff beach 55 km north of Thiruvananthapuram airport and 43 km from Varkala rail. The 40-ft cliff-top promenade, Papanasam beach and occupational funky cafés make it the state's bohemian favourite.",
+   "experience": [
+    "Beach",
+    "Cliff",
+    "Yoga",
+    "Sunset"
+   ],
+   "season": [
+    "Winter",
+    "Monsoon",
+    "Shoulder"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    9,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 62,
+   "hidden": false,
+   "food": [
+    "Cliff-top juice",
+    "Fish curry",
+    "Banana breads"
+   ],
+   "festivals": [
+    "Varkala beach festival",
+    "Shivaratri"
+   ],
+   "local": [
+    "Cliff-top sunset walk",
+    "Papanasam dip",
+    "Janardhana temple",
+    "Varkala-Heli ferry"
+   ],
+   "seasons": [
+    [
+     "Winter Peak",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Gold evenings on the cliff.",
+     [
+      "Cliff walk",
+      "Surf school",
+      "Sunset"
+     ],
+     "High",
+     "Budget",
+     "Great",
+     "Full moon nights buzz."
+    ],
+    [
+     "Monsoon",
+     [
+      6,
+      7,
+      8
+     ],
+     "Rough seas, greener cliffs.",
+     [
+      "Cafés & yoga"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Swimming shifts off-season."
+    ],
+    [
+     "Shoulder",
+     [
+      3,
+      4,
+      9,
+      10
+     ],
+     "Quiet, warm.",
+     [
+      "Surf",
+      "Ayuveda"
+     ],
+     "Low",
+     "Budget",
+     "Excellent",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Cliff Promenade Walk",
+     "Red-laterite path over the beach with whale-watching lookouts.",
+     "walk",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Papanasam Beach Swim",
+     "The sacred 'sin-washing' main beach beneath the cliff.",
+     "waves",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "sunny"
+     ]
+    ],
+    [
+     "Sunset Point Cafés",
+     "The cliff's sushi-and-smoothie sunset stool culture.",
+     "coffee",
+     "Culinary",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Janardhana Temple",
+     "A 2,000-year-old Vaishnavite shrine by the beach.",
+     "church",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Varkala+Cliff",
+     "Varkala cliff over the sea",
+     "beach"
+    ]
+   ]
+  },
+  {
+   "name": "Ooty",
+   "slug": "ooty",
+   "state": "tamil_nadu",
+   "lat": 11.4102,
+   "lng": 76.695,
+   "alt": 2240,
+   "summary": "The queen of the Nilgiris — botanic lawns around a lake.",
+   "description": "Tamil Nadu's classic 2,240 m hill station, 88 km from Coimbatore airport and on the Nilgiri Mountain Railway. Botanical gardens, the Rose Garden, the tiny lake and Dodabetta above complete a Victorian original.",
+   "experience": [
+    "Hill Station",
+    "Tea",
+    "Gardens",
+    "Heritage"
+   ],
+   "season": [
+    "Summer",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    11,
+    12
+   ],
+   "budget": "Moderate",
+   "popularity": 72,
+   "hidden": false,
+   "food": [
+    "Ooty chox",
+    "Steamed idlies",
+    "Sultan biryani (nearby)"
+   ],
+   "festivals": [
+    "Summer festival",
+    "Nilgiri winter festival"
+   ],
+   "local": [
+    "Toy train to Mettupalayam",
+    "Botanical gardens",
+    "Dodabetta peak",
+    "Tea factory at Doddabetta"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Cool days against plains heat.",
+     [
+      "Gardens",
+      "Lake boats",
+      "Toy train"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     "School rush."
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Clear, blooming.",
+     [
+      "Photography",
+      "Viewpoints"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best window."
+    ],
+    [
+     "Winter",
+     [
+      12,
+      1,
+      2
+     ],
+     "Frost mornings.",
+     [
+      "Rose garden",
+      "Tea estates"
+     ],
+     "Low",
+     "Moderate",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Botanical Gardens",
+     "Lawns, glass hothouses and a 150-year-old fossil tree.",
+     "tree-pine",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Nilgiri Mountain Railway",
+     "A toyl-train run from Ooty through tunnels and tea fields.",
+     "train",
+     "Heritage",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Dodabetta Peak",
+     "Highest Nilgiri point (2,637 m) with telescope views.",
+     "mountain",
+     "Photography",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Ooty Lake Boating",
+     "A man-made lake ringed by eucalyptus at the town centre.",
+     "boat",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Ooty+Lake",
+     "Ooty lake and green hills",
+     "hill_station"
+    ]
+   ]
+  },
+  {
+   "name": "Kodaikanal",
+   "slug": "kodaikanal",
+   "state": "tamil_nadu",
+   "lat": 10.2381,
+   "lng": 77.4892,
+   "alt": 2133,
+   "summary": "The princess of hill stations — a star-shaped lake amid shola forests.",
+   "description": "A 2,133 m plateau town 100 km from Madurai rail/air and 205 from Coimbatore. The boat lake, Coaker's Walk and the pillar-rock viewpoint reward a slow few days.",
+   "experience": [
+    "Hill Station",
+    "Lake",
+    "Forest",
+    "Honeymoon"
+   ],
+   "season": [
+    "Summer",
+    "Autumn",
+    "Monsoon"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    9,
+    10,
+    11
+   ],
+   "budget": "Moderate",
+   "popularity": 66,
+   "hidden": false,
+   "food": [
+    "Kodai bread",
+    "Chocolate",
+    "Curd rice"
+   ],
+   "festivals": [
+    "Forest festival",
+    "Summer trip sesh"
+   ],
+   "local": [
+    "Coaker's Walk",
+    "Boating the star lake",
+    "Pillar rocks",
+    "Guna caves"
+   ],
+   "seasons": [
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Cool, green and busy.",
+     [
+      "Lake boating",
+      "Coaker's Walk"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     ""
+    ],
+    [
+     "Autumn",
+     [
+      9,
+      10,
+      11
+     ],
+     "Clear and quiet.",
+     [
+      "Viewpoints",
+      "Forest walks"
+     ],
+     "Low",
+     "Moderate",
+     "Excellent",
+     "Best."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Misted shola rains.",
+     [
+      "Cafés, lakeside"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     "Trails muddy."
+    ]
+   ],
+   "activities": [
+    [
+     "Star Lake Boating",
+     "Rowboats on a lake shaped by its basin's shoreline.",
+     "boat",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Coaker's Walk",
+     "Sunset terrace with a telescope over the plains.",
+     "walk",
+     "Leisure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Pillar Rocks & Guna Caves",
+     "Sheer granite columns and a film-set forest gorge.",
+     "mountain",
+     "Photography",
+     [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Berijam Lake Jeep Ride",
+     "A forest-department trail to the plateau's blue lake.",
+     "car",
+     "Adventure",
+     [
+      4,
+      5,
+      6,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Kodaikanal+Lake",
+     "Kodaikanal lake",
+     "lake"
+    ]
+   ]
+  },
+  {
+   "name": "Rameswaram",
+   "slug": "rameswaram",
+   "state": "tamil_nadu",
+   "lat": 9.2876,
+   "lng": 79.3129,
+   "alt": 6,
+   "summary": "The southern point where Ram built a causeway — temple sea rhythms.",
+   "description": "An island at the eastern end of the Pamban bridge (rebuilt rail bridge 2023), 70 km southwest of Madurai airport, reached by a rail line over the sea. Ramanathaswamy temple and Dhanushkodi's ghost dunes anchor it.",
+   "experience": [
+    "Spiritual",
+    "Island",
+    "Beach",
+    "Heritage"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "budget": "Budget",
+   "popularity": 56,
+   "hidden": false,
+   "food": [
+    "Rameswaram idli",
+    "Seer fish curry",
+    "Nippat"
+   ],
+   "festivals": [
+    "Mahashivratri",
+    "Deepam"
+   ],
+   "local": [
+    "22 theerthams dip",
+    "Dhanushkodi remains",
+    "Pamban bridge drive",
+    "Agni theertham dawn"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Mild sea winds.",
+     [
+      "Temple baths",
+      "Dhanushkodi",
+      "Beach"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Summer",
+     [
+      4,
+      5,
+      6
+     ],
+     "Hot, humid.",
+     [
+      "Temple early morning"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Gulf storms.",
+     [
+      "Temple interiors"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     "Pamban bridge wind alerts."
+    ]
+   ],
+   "activities": [
+    [
+     "Ramanathaswamy Temple",
+     "The longest corridor in Hindu temple architecture and 22 ritual tanks.",
+     "church",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear",
+      "any"
+     ]
+    ],
+    [
+     "Dhanushkodi Ghost Town",
+     "The cyclone-wrecked 1964 town stranded in white sand.",
+     "landmark",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Pamban Bridge Views",
+     "Drive or ride over the sea with the old train causeway beside.",
+     "train",
+     "Adventure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Agni Theertham Sunrise",
+     "Ritual dawn dip where the temple meets the sea.",
+     "sunrise",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Rameswaram+Temple",
+     "Temple corridor at Rameswaram",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Pondicherry",
+   "slug": "pondicherry",
+   "state": "puducherry",
+   "lat": 11.9416,
+   "lng": 79.8083,
+   "alt": 3,
+   "summary": "The white-and-ochre French quarter of gated boulevards and Auroville.",
+   "description": "A former French colony 150 km from Chennai airport on the TN coast, a 4-hour drive away. Promenade beach, the white quarter, Auroville's Matrimandir and heritage cafés give it a unique Gallic-South-Indian rhythm.",
+   "experience": [
+    "Heritage",
+    "French Quarter",
+    "Beach",
+    "Spiritual"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Budget",
+   "popularity": 70,
+   "hidden": false,
+   "food": [
+    "Baguette croissants",
+    "Curd rice",
+    "Sea-food crêperie"
+   ],
+   "festivals": [
+    "Pondicherry heritage",
+    "Auroville Xmas"
+   ],
+   "local": [
+    "White town walks",
+    "Promenade sunset",
+    "Auroville Matrimandir",
+    "Serenity beach"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Mild, breezy.",
+     [
+      "White town",
+      "Auroville",
+      "Beaches"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Xmas lights beautiful."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Warm days.",
+     [
+      "Café terraces",
+      "Beach mornings"
+     ],
+     "Medium",
+     "Budget",
+     "Good",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Rainy, humid.",
+     [
+      "Heritage interiors"
+     ],
+     "Low",
+     "Budget",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "White Town Heritage Walk",
+     "Ochre villas, Hindu done-as-French styles and gated boulevards.",
+     "building",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Auroville Matrimandir",
+     "The meditative golden sphere of Sri Aurobindo's community, 12 km out.",
+     "landmark",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Promenade & White Beach",
+     "Rocket park and sunrise jogging along the seawall.",
+     "sunrise",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Heritage Café Circuit",
+     "Bakeries and bistros resurrected in the old quarter.",
+     "coffee",
+     "Culinary",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Pondicherry+Quarter",
+     "French quarter facade, Pondicherry",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Delhi",
+   "slug": "delhi",
+   "state": "delhi",
+   "lat": 28.6139,
+   "lng": 77.209,
+   "alt": 216,
+   "summary": "The layered capital of seven cities — monuments, megamalls and bazaars.",
+   "description": "India's gateway, with Indira Gandhi airport, the metro and every rail connection. Red Fort, Qutub Minar, Humayun's Tomb and the Chandni Chowk anarchy collate 12 centuries in one sprawling canvas.",
+   "experience": [
+    "Heritage",
+    "Monuments",
+    "Culinary",
+    "Megacity"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Moderate",
+   "popularity": 84,
+   "hidden": false,
+   "food": [
+    "Chole bhature",
+    "Butter chicken",
+    "Paratha wali gali"
+   ],
+   "festivals": [
+    "Dilli festival",
+    "Republic Day parade"
+   ],
+   "local": [
+    "Old Delhi rickshaw tour",
+    "Lodhi gardens sunrise",
+    "Hauz Khas cafés",
+    "Metro to Akshardham"
+   ],
+   "seasons": [
+    [
+     "Peak Winter",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     "Clear but polluted mornings.",
+     [
+      "Monument circuit",
+      "Rickshaw bazaars"
+     ],
+     "High",
+     "Moderate",
+     "Good",
+     "Check AQI; mornings can be heavy."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Blossoming parks.",
+     [
+      "Garden walks",
+      "Outdoor markets"
+     ],
+     "Medium",
+     "Moderate",
+     "Excellent",
+     "Best AQI months."
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Humid, flooded streets.",
+     [
+      "Museums",
+      "Galleries"
+     ],
+     "Low",
+     "Moderate",
+     "Fair",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Red Fort & Chandni Chowk",
+     "A century-old citadel plus the spine of Old Delhi's markets.",
+     "castle",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Humayun's Tomb",
+     "The garden-tomb grammar that Georgians later copied for the Taj.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Qutub Minar Complex",
+     "The 73 m victory tower and rust-resistant iron pillar.",
+     "landmark",
+     "Heritage",
+     [
+      10,
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Lodhi Gardens",
+     "Brilliant sunrise lawns over 15th-century tombs.",
+     "tree-pine",
+     "Leisure",
+     [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Delhi+Qutub",
+     "Qutub Minar",
+     "heritage"
+    ]
+   ]
+  },
+  {
+   "name": "Amritsar",
+   "slug": "amritsar",
+   "state": "punjab",
+   "lat": 31.634,
+   "lng": 74.8723,
+   "alt": 234,
+   "summary": "The Golden Temple's haloed sanctum and Sikh Punjab's heart.",
+   "description": "Punjab's spiritual capital 25 km from the Wagah border and with rail/air from Delhi. The gilded Harmandir Sahib, Jallianwala Bagh and the border-beating ceremony make a moving 24-48 hours.",
+   "experience": [
+    "Spiritual",
+    "Heritage",
+    "Sikh Culture",
+    "Food"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "budget": "Budget",
+   "popularity": 76,
+   "hidden": false,
+   "food": [
+    "Amritsari kulcha",
+    "Langar",
+    "Kulfi"
+   ],
+   "festivals": [
+    "Baisakhi",
+    "Guru Nanak Jayanti"
+   ],
+   "local": [
+    "Harmandir darshan",
+    "Langar hall meal",
+    "Wagah border ceremony",
+    "Hall Bazaar food street"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Crisp holy-city mornings.",
+     [
+      "Golden Temple",
+      "Wordsworth walks"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     "Gurpurab lighting is magical."
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Mild and festive (Baisakhi).",
+     [
+      "Baisakhi processions",
+      "Food lanes"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Warm rain.",
+     [
+      "Temple interiors"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Harmandir Sahib",
+     "The gold-domed gurdwara mirrored in the Amrit Sarovar tank.",
+     "church",
+     "Spiritual",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear",
+      "any"
+     ]
+    ],
+    [
+     "Community Langar",
+     "The world's largest free kitchen serving 100,000 meals a day.",
+     "utensils",
+     "Cultural",
+     [
+      1,
+      2,
+      3,
+      4,
+      11,
+      12
+     ],
+     true,
+     [
+      "any"
+     ]
+    ],
+    [
+     "Wagah Border Ceremony",
+     "Twin-nation parade and flag ceremony at dusk, 28 km away.",
+     "flag",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Jallianwala Bagh",
+     "The solemn 1919 massacre garden and memorial.",
+     "landmark",
+     "Heritage",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Golden+Temple",
+     "Golden temple at night",
+     "spiritual"
+    ]
+   ]
+  },
+  {
+   "name": "Chandigarh",
+   "slug": "chandigarh",
+   "state": "chandigarh",
+   "lat": 30.7333,
+   "lng": 76.7794,
+   "alt": 321,
+   "summary": "Le Corbusier's concrete garden city at the Himalayan doorstep.",
+   "description": "A planned modernist capital at the base of the Shivaliks, where the expressways and cycle grids of Sukhna lake meet. Rock Garden, the Capitol complex and Punjab's bazaars make it a design-first stop.",
+   "experience": [
+    "Architecture",
+    "Modernism",
+    "Parks",
+    "Weekend"
+   ],
+   "season": [
+    "Winter",
+    "Spring",
+    "Monsoon"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    9,
+    10
+   ],
+   "budget": "Budget",
+   "popularity": 62,
+   "hidden": false,
+   "food": [
+    "Butter chicken",
+    "Paranthe",
+    "Chandigarh cafe scènes"
+   ],
+   "festivals": [
+    "Chandigarh Marathon",
+    "Rock garden festival"
+   ],
+   "local": [
+    "Rock Garden",
+    "Sukhna lake sunset",
+    "Capitol complex",
+    "Sector 17 food plaza"
+   ],
+   "seasons": [
+    [
+     "Winter",
+     [
+      11,
+      12,
+      1,
+      2
+     ],
+     "Crisp, clean Shivalik air.",
+     [
+      "Rock Garden",
+      "Lakes",
+      "Design walks"
+     ],
+     "High",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Spring",
+     [
+      3,
+      4
+     ],
+     "Burgeoning parks.",
+     [
+      "Cycle rides",
+      "Open-air cafés"
+     ],
+     "Medium",
+     "Budget",
+     "Excellent",
+     ""
+    ],
+    [
+     "Monsoon",
+     [
+      7,
+      8
+     ],
+     "Warm and damp.",
+     [
+      "Museums",
+      "Le Corbusier buildings"
+     ],
+     "Low",
+     "Budget",
+     "Good",
+     ""
+    ]
+   ],
+   "activities": [
+    [
+     "Rock Garden",
+     "Nek Chand's reclaimed waste-city of mosaic figures and grottos.",
+     "landmark",
+     "Architecture",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Capitol Complex",
+     "Le Corbusier's Open Hand, High Court and Assembly buildings.",
+     "building",
+     "Architecture",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sukhna Lake Sunset",
+     "The dam lake with Shivalik silhouettes and boating.",
+     "sunrise",
+     "Leisure",
+     [
+      11,
+      12,
+      1,
+      2,
+      9,
+      10
+     ],
+     false,
+     [
+      "clear"
+     ]
+    ],
+    [
+     "Sector 17 Plaza",
+     "Corbusier's shopping square and the city's food murmur.",
+     "shopping",
+     "Cultural",
+     [
+      11,
+      12,
+      1,
+      2,
+      3
+     ],
+     true,
+     [
+      "any"
+     ]
+    ]
+   ],
+   "images": [
+    [
+     "https://placehold.co/900x600/1e293b/e2e8f0?text=Chandigarh+Rock+Garden",
+     "Rock garden mosaics",
+     "architecture"
+    ]
+   ]
+  }
+ ]
+}
