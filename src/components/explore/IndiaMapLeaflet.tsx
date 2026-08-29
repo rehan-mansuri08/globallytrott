@@ -93,31 +93,19 @@ export default function IndiaMapLeaflet({
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
         maxZoom={18}
       />
-      <GeoJSON
-        key="india-states"
-        data={undefined as never}
-        eventHandlers={{
-          add: (e) => {
-            const layer = e.target as L.GeoJSON;
-            fetch(STATE_GEOJSON_URL)
-              .then((r) => (r.ok ? r.json() : Promise.reject(new Error("geojson fetch failed"))))
-              .then((gj) => {
-                layer.clearLayers();
-                layer.addData(gj);
-              })
-              .catch(() => {
-                /* boundaries are decorative — skip silently */
-              });
-          },
-        }}
-        style={() => ({
-          color: "#14b8a6",
-          weight: 0.7,
-          fillColor: "#0f766e",
-          fillOpacity: 0.05,
-        })}
-        interactive={false}
-      />
+      {stateBoundaries && (
+        <GeoJSON
+          key="india-states"
+          data={stateBoundaries}
+          style={() => ({
+            color: "#14b8a6",
+            weight: 0.7,
+            fillColor: "#0f766e",
+            fillOpacity: 0.05,
+          })}
+          interactive={false}
+        />
+      )}
       {markers.map((d) => {
         const selected = selectedSlug === d.slug;
         return (
